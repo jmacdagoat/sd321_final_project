@@ -3,30 +3,33 @@ rustees_medicated_bumper_ointement_racing_team
 September 24, 2026
 
 1.	Team Information
-•	Team Name (Optional): rustees_medicated_bumper_ointement_racing_team
-•	Team Leader: MIDN Goforth
-•	Team Members:
-–	MIDN 2/C Ting
-–	MIDN 2/C Goforth
-–	MIDN 2/C Macke
+    •	Team Name (Optional): rustees_medicated_bumper_ointement_racing_team
+    •	Team Leader: MIDN Goforth
+    •	Team Members:
+        –	MIDN 2/C Ting
+        –	MIDN 2/C Goforth
+        –	MIDN 2/C Macke
 2.	Project Overview & Scope
-•	Project Title: Behind the Wheel or Under the Hood: What Wins the Race?
-•	Big Question: How much does driver performance matter in NASCAR?
-•	Dataset Description:
-–	Domain/Topic:
-•	Data Source URL(s):
-–	Dataset 1: Anchorages:
-–	Dataset 2: Vessel Routing Measures:
-–	Dataset 3: Danger Zones and Restricted Areas
+    •	Project Title: Behind the Wheel or Under the Hood: What Wins the Race?
+    •	Big Question: How much does driver performance matter in NASCAR?
+    •	Dataset Description:
+        –	Domain/Topic:
+    •	Data Source URL(s):
+        –	Dataset 1: Anchorages:
+        –	Dataset 2: Vessel Routing Measures:
+        –	Dataset 3: Danger Zones and Restricted Areas
 3.	Investigative Questions
-1.	Question 1: [Insert question]
-2.	Question 2: [Insert question]
-3.	Question 3: [Insert question]
-4.	Question 4: [Insert question]
-5.	Question 5: [Insert question]
-6.	Question 6: [Insert question]
+    1.	Question 1: [Insert question]
+    2.	Question 2: [Insert question]
+    3.	Question 3: [Insert question]
+    4.	Question 4: [Insert question]
+    5.	Question 5: [Insert question]
+    6.	Question 6: [Insert question]
 4.	Division of Labor
-•	2/C Ting: [Assigned tasks: e.g., data acquisition, ER modeling, Python analysis]
-•	2/C Goforth: [Assigned tasks: e.g., data cleaning, normalization, SQL queries]
-•	2/C Macke: [Assigned tasks: e.g., database loading, R analysis, poster design]
+    •	2/C Ting: 
+        - Milestone .txt formatting
+        - ER modeling
+        - Normalization
+    •	2/C Goforth: [Assigned tasks: e.g., data cleaning, normalization, SQL queries]
+    •	2/C Macke: [Assigned tasks: e.g., database loading, R analysis, poster design]
 
