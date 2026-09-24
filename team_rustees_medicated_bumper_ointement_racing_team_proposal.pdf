@@ -11,7 +11,11 @@ September 24, 2026
         –	MIDN 2/C Macke
 2.	Project Overview & Scope
     •	Project Title: Behind the Wheel or Under the Hood: What Wins the Race?
-    •	Big Question: How much does driver performance matter in NASCAR?
+    • Big Question: What makes a NASCAR driver fast?
+            - Analyzing this through three main areas:
+                1.) on track pace: overall race pace and how well drivers maintain pace over time (tire wear, etc)
+                2.) passing and track position: how effectively drivers gain and maintain position
+                3.) pit-road performance: how much track position drivers gain or lose during pit cycles
     •	Dataset Description:
         –	Domain/Topic:
     •	Data Source URL(s):
@@ -19,12 +23,17 @@ September 24, 2026
         –	Dataset 2:
         –	Dataset 3:
 3.	Investigative Questions
-    1.	Question 1: [Insert question]
-    2.	Question 2: [Insert question]
-    3.	Question 3: [Insert question]
-    4.	Question 4: [Insert question]
-    5.	Question 5: [Insert question]
-    6.	Question 6: [Insert question]
+The three main areas can be split into six questions:
+    AREA 1: On-track pace
+    1. Question 1: Which drivers have the fastest average green-flag race pace over the season?
+    2. Question 2: Which drivers best maintain their pace over long green-flag runs as their tires wear?
+    AREA 2: Passing and track position
+    3. Question 3: Which drivers gain the most positions under green-flag racing?
+    4. Question 4: Which drivers are most effective at maintaining strong running positions throughout a race?
+    AREA 3: Pit road performance
+    5. Question 5: Which drivers/teams gain or lose the most positions during pit cycles?
+    6. Question 6: How does pit road performance relate to finishing position?
+
 4.	Division of Labor
     •	2/C Ting: 
         - Milestone .txt formatting
@@ -45,3 +54,6 @@ September 24, 2026
         - R analysis
         - Poster Design
 
+5. Final application
+    - Pick a driver/team and analyze their performance in the investigated areas thru the regular season. 
+Use our data to make a recommendation for next season
