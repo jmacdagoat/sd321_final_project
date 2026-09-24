@@ -1,1 +1,66 @@
+SD321 Final Project: Milestone 2 
+rustees_medicated_bumper_ointement_racing_team
+September 24, 2026
 
+1.	ERD and Table Information 
+
+URL FOR ERD: 
+
+LEGEND FOR TABLE LIST
+  • (PK); Primary Key
+  • (FK); Foreign Key
+
+List of Tables
+    •	Table Name:
+        • Column Names:
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+    • Functional dependencies
+        •
+        •
+        •
+        •
+        •
+    • This Table is/isn't in BCNF
+
+•	Table Name:
+        • Column Names:
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+    • Functional dependencies
+        •
+        •
+        •
+        •
+        •
+    • This Table is/isn't in BCNF
+
+•	Table Name:
+        • Column Names:
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+            •
+    • Functional dependencies
+        •
+        •
+        •
+        •
+        •
+    • This Table is/isn't in BCNF
