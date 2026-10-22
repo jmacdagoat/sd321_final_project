@@ -1,0 +1,657 @@
+race_id,series_id,race_season,race_name,race_type_id,restrictor_plate,track_id,track_name,date_scheduled,race_date,qualifying_date,tunein_date,scheduled_distance,actual_distance,scheduled_laps,actual_laps,stage_1_laps,stage_2_laps,stage_3_laps,number_of_cars_in_field,pole_winner_driver_id,pole_winner_speed,number_of_lead_changes,number_of_leaders,number_of_cautions,number_of_caution_laps,average_speed,total_race_time,margin_of_victory,race_purse,race_comments,attendance,infractions,schedule,radio_broadcaster,television_broadcaster,satellite_radio_broadcaster,master_race_id,inspection_complete,playoff_round,is_qualifying_race,qualifying_race_no,qualifying_race_id,has_qualifying,winner_driver_id,pole_winner_laptime,scheduled_at,track_type
+5543,1,2025,Cook Out Clash at Bowman Gray,2,False,159,Bowman Gray Stadium,2025-02-02T20:00:00,2025-02-02T20:00:00,2025-02-02T20:00:00,2025-02-02T20:00:00,50.6,50.0,200,200,0,0,0,23,4062,0.0,4,3,7,7,40.956,1:13:15,1.333,0,"Chase Elliott has won the NASCAR Cup Series annual exhibition event, the Cook Out Clash at Bowman Gray Stadium, his first win in the season-opening race. No cars to the rear prior to the start of the event. ",0,[],"[{'event_name': 'Haulers Enter', 'notes': 'Charlotte Motor Speedway', 'start_time_utc': '2025-01-30T13:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': 'Charlotte Motor Speedway', 'start_time_utc': '2025-01-30T15:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Exit', 'notes': 'Charlotte Motor Speedway', 'start_time_utc': '2025-01-31T13:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Bowman Gray Stadium - Parking Only', 'start_time_utc': '2025-01-31T16:00:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-01-31T22:00:00', 'run_type': 0}
+ {'event_name': 'Team Access for Equipment Set Up Permitted', 'notes': '', 'start_time_utc': '2025-02-01T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-01T20:30:00', 'run_type': 0}
+ {'event_name': 'Driver/Team Track Walk ', 'notes': 'No Motorized Vehicles Authorized', 'start_time_utc': '2025-02-01T21:30:00', 'run_type': 0}
+ {'event_name': 'Full-Field Photo (ALL DRIVERS)', 'notes': 'Start/Finish Line', 'start_time_utc': '2025-02-01T22:10:00', 'run_type': 0}
+ {'event_name': 'Practice / Qualifying ', 'notes': 'Group 1 / 2 / 3 | Three Timed Sessions Per Group', 'start_time_utc': '2025-02-01T23:10:00', 'run_type': 1}
+ {'event_name': 'Garage Hours', 'notes': ' ', 'start_time_utc': '2025-02-02T19:00:00', 'run_type': 0}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': 'Garage Staging Area', 'start_time_utc': '2025-02-03T00:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-02-03T00:50:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': '200 Laps - Green Only', 'start_time_utc': '2025-02-03T01:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-02-03T04:55:00', 'run_type': 0}]",MRN,FOX,SIRIUSXM,3222,True,0,False,0,-1,False,4062,,2025-02-02 20:00:00+00:00,short track
+5544,1,2025,Duel 1 at DAYTONA,2,True,105,Daytona International Speedway,2025-02-13T19:00:00,2025-02-13T19:00:00,2025-02-13T19:00:00,2025-02-13T19:00:00,150.0,150.0,60,60,0,0,0,23,4228,0.0,20,10,4,15,130.909,1:08:45,.082,0,"Bubba Wallace has won the Duel at DAYTONA 1 at Daytona International Speedway, his first victory in the DAYTONA 500 Qualifying Race. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",0,[],"[{'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-02-13T23:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'All Entries', 'start_time_utc': '2025-02-13T23:35:00', 'run_type': 0}
+ {'event_name': 'Qualifying Race 1', 'notes': '60 Laps, 150 Miles', 'start_time_utc': '2025-02-14T00:00:00', 'run_type': 2}]",MRN,FS1,SIRIUSXM,3217,True,0,False,0,-1,False,4025,,2025-02-13 19:00:00+00:00,superspeedway
+5545,1,2025,Duel 2 at DAYTONA,2,True,105,Daytona International Speedway,2025-02-13T20:45:00,2025-02-13T20:45:00,2025-02-13T20:45:00,2025-02-13T20:45:00,150.0,150.0,60,60,0,0,0,22,4180,0.0,16,7,2,6,161.628,0:55:41,Under Caution,0,"Austin Cindric has won the Duel at DAYTONA 2 at Daytona International Speedway, his first victory in the DAYTONA 500 Qualifying Race. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 20 (Unapproved Adjustments)",0,[],"[{'event_name': 'Drivers Report To Vehicles', 'notes': 'At Duel 1 Checkered)(Duel 2 Drivers', 'start_time_utc': '2025-02-14T01:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests', 'notes': 'Once All Duel 2 Cars Parked', 'start_time_utc': '2025-02-14T01:15:00', 'run_type': 0}
+ {'event_name': 'Qualifying Race 2', 'notes': '60 Laps, 150 Miles', 'start_time_utc': '2025-02-14T01:45:00', 'run_type': 2}]",MRN,FS1,SIRIUSXM,3218,True,0,False,0,-1,False,4180,,2025-02-13 20:45:00+00:00,superspeedway
+5546,1,2025,DAYTONA 500,1,True,105,Daytona International Speedway,2025-02-16T14:30:00,2025-02-16T14:30:00,2025-02-16T13:30:00,2025-02-16T13:30:00,500.0,502.5,200,201,65,65,71,41,4228,182.745,56,15,8,47,129.159,3:53:26,.113,0,"William Byron has won the DAYTONA 500 at Daytona International Speedway, his 14th victory in the NASCAR Xfinity Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 91 (engine change), Nos. 5, 6, 7, 35, 48, 54, 88, 99 (backup car), No. 47 (multiple inspection failures). ",0,[],"[{'event_name': 'Random Drawing (Qualifying Lineup)', 'notes': 'Sent Electronically', 'start_time_utc': '2025-02-11T21:00:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-02-11T22:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Showcase', 'notes': 'One Daytona', 'start_time_utc': '2025-02-11T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-02-12T00:15:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-12T11:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-02-12T11:00:00', 'run_type': 0}
+ {'event_name': 'Practice 1', 'notes': 'All Entries', 'start_time_utc': '2025-02-12T15:05:00', 'run_type': 1}
+ {'event_name': 'Media Day', 'notes': 'DAYTONA 500 Club', 'start_time_utc': '2025-02-12T17:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-02-12T18:00:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-02-13T01:15:00', 'run_type': 2}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-13T21:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-14T15:00:00', 'run_type': 0}
+ {'event_name': 'Mandatory Spotters Meeting ', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-02-14T15:30:00', 'run_type': 0}
+ {'event_name': 'Driver Safety Update Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-02-14T18:00:00', 'run_type': 0}
+ {'event_name': 'Practice 2', 'notes': 'All Entries', 'start_time_utc': '2025-02-14T22:35:00', 'run_type': 1}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-15T17:30:00', 'run_type': 0}
+ {'event_name': 'Practice 3', 'notes': 'All Entries', 'start_time_utc': '2025-02-15T20:05:00', 'run_type': 1}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': 'Screening in Progress', 'start_time_utc': '2025-02-16T10:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-16T11:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-02-16T11:45:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-02-16T12:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-02-16T17:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-02-16T17:15:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-02-16T17:35:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-02-16T17:50:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 65/130/200 Laps = 500 Miles', 'start_time_utc': '2025-02-16T18:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-02-17T00:30:00', 'run_type': 0}]",MRN,FOX,SIRIUSXM,385,True,0,False,0,-1,False,4184,,2025-02-16 14:30:00+00:00,superspeedway
+5547,1,2025,Ambetter Health 400,1,True,111,Atlanta Motor Speedway,2025-02-23T15:00:00,2025-02-23T15:00:00,2025-02-23T15:00:00,2025-02-23T15:00:00,400.4,409.64,260,266,60,100,106,39,4023,179.371,50,15,11,63,118.384,3:27:37,Under Caution,0,"Christopher Bell has won the Ambetter Health 400 at Atlanta Motor Speedway, his 10th victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty. ",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-02-20T22:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Parade', 'notes': '', 'start_time_utc': '2025-02-21T16:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-02-21T16:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-02-21T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-21T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-22T13:30:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-02-22T16:05:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-02-23T16:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-23T17:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center | Press Conference Room', 'start_time_utc': '2025-02-23T17:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-02-23T18:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center | Press Conference Room', 'start_time_utc': '2025-02-23T19:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-02-23T19:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-02-23T19:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/160/260 Laps = 400.4 Miles', 'start_time_utc': '2025-02-23T20:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-02-24T01:00:00', 'run_type': 0}]",PRN,FOX,SIRIUSXM,3335,True,0,False,0,-1,False,4153,,2025-02-23 15:00:00+00:00,intermediate
+5551,1,2025,EchoPark Automotive Grand Prix,1,False,214,Circuit of The Americas,2025-03-02T15:30:00,2025-03-02T15:30:00,2025-03-02T14:30:00,2025-03-02T15:30:00,228.0,228.0,95,95,20,25,50,37,4065,88.095,20,9,4,15,73.025,3:07:20,0.433,0,"Christopher Bell won the EchoPark Automotive Grand Prix at Circuit of the Americas, his 11th NASCAR Cup Series victory. Prior to the green flag to start the race, the following car dropped to the rear for the reason indicated: No. 38 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-02-27T23:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-02-27T23:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-02-28T18:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-02-28T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-01T14:00:00', 'run_type': 0}
+ {'event_name': 'Practice 1', 'notes': 'Timed | Group 1: 20 Minutes / Group 2: 20 Minutes', 'start_time_utc': '2025-03-01T16:00:00', 'run_type': 1}
+ {'event_name': 'Practice 2', 'notes': 'Timed | Group 1: 20 Minutes / Group 2: 20 Minutes', 'start_time_utc': '2025-03-01T16:45:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group 1 & 2: Multi-Vehicle', 'start_time_utc': '2025-03-01T17:30:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-03-02T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center', 'start_time_utc': '2025-03-02T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-02T17:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-03-02T19:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center', 'start_time_utc': '2025-03-02T19:40:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-03-02T19:55:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-03-02T20:05:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 20/45/95 Laps = 228 Miles', 'start_time_utc': '2025-03-02T20:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-03-03T01:30:00', 'run_type': 0}]",PRN,FOX,SIRIUSXM,5033,True,0,False,0,-1,False,4153,,2025-03-02 15:30:00+00:00,road course
+5549,1,2025,Shriners Children's 500,1,False,84,Phoenix Raceway,2025-03-09T15:30:00,2025-03-09T15:30:00,2025-03-09T12:30:00,2025-03-09T15:30:00,312.0,312.0,312,312,60,125,127,37,4184,133.68,17,6,10,73,92.141,3:23:10,.049,0,"Christopher Bell has won the Shriners Children's 500 at Phoenix Raceway, his 12th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 71 (Unapproved Adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-03-07T00:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-03-07T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-07T20:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-03-07T20:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-08T17:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - 45 Minutes', 'start_time_utc': '2025-03-08T19:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-03-08T20:05:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-03-09T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-09T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-03-09T16:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-03-09T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'On Entry to the Meeting Room', 'start_time_utc': '2025-03-09T18:20:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-03-09T18:30:00', 'run_type': 0}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-03-09T18:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Staging in Crescent', 'start_time_utc': '2025-03-09T18:55:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/185/312 Laps = 312 Miles', 'start_time_utc': '2025-03-09T19:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-03-10T01:00:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,2074,True,0,False,0,-1,False,4153,,2025-03-09 15:30:00+00:00,short track
+5548,1,2025,Pennzoil 400 presented by Jiffy Lube,1,False,42,Las Vegas Motor Speedway,2025-03-16T15:30:00,2025-03-16T15:30:00,2025-03-16T12:30:00,2025-03-16T15:30:00,400.5,400.5,267,267,80,85,102,36,3832,186.961,32,13,9,53,124.368,3:13:13,1.358,0,"Josh Berry won the Pennzoil 400 at Las Vegas Motor Speedway, his first NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear: No. 12 (DNQ), Nos. 20, 35, 42, 47 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-03-14T00:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Parking Only', 'start_time_utc': '2025-03-14T02:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Equipment Unloading', 'notes': 'Garage Area', 'start_time_utc': '2025-03-14T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-14T19:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-03-14T19:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-15T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 5 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-03-15T17:35:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-03-15T18:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-03-16T15:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'NEON Garage', 'start_time_utc': '2025-03-16T16:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-16T16:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-03-16T18:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'NEON Garage', 'start_time_utc': '2025-03-16T18:30:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-03-16T18:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-03-16T18:55:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-03-16T19:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-03-17T00:30:00', 'run_type': 0}]",PRN,FS1,SIRIUSXM,1824,True,0,False,0,-1,False,4123,,2025-03-16 15:30:00+00:00,intermediate
+5583,1,2025,Straight Talk Wireless 400,1,False,40,Homestead-Miami Speedway,2025-03-23T15:00:00,2025-03-23T15:00:00,2025-03-23T15:00:00,2025-03-23T15:00:00,400.5,400.5,267,267,80,85,102,37,4045,168.845,27,9,4,27,131.876,3:02:13,1.205,0,"Kyle Larson has won the Straight Talk Wireless 400 at Homestead-Miami Speedway, his 30th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 43 (Unapproved Adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-03-20T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-03-21T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-22T11:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-03-22T11:30:00', 'run_type': 0}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Media Center Hospitality Room', 'start_time_utc': '2025-03-22T13:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-03-22T17:05:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-03-22T18:15:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-03-23T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-23T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center Hospitality Room', 'start_time_utc': '2025-03-23T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-03-23T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center Hospitality Room', 'start_time_utc': '2025-03-23T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-03-23T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-03-23T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-03-23T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-03-24T00:00:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,1887,True,0,False,0,-1,False,4030,,2025-03-23 15:00:00+00:00,intermediate
+5553,1,2025,Cook Out 400,1,False,22,Martinsville Speedway,2025-03-30T15:00:00,2025-03-30T15:00:00,2025-03-30T15:00:00,2025-03-30T15:00:00,210.4,210.4,400,400,80,100,220,38,4153,96.034,9,6,10,86,68.17,3:05:11,4.617,0,"Denny Hamlin won the Cook Out 400 at Martinsville Speedway, his 55th NASCAR Cup Series victory. Prior to the start no cars dropped to the rear of the field under penalty. ",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-03-28T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-03-29T10:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-03-29T12:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-29T12:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-03-29T18:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-03-29T19:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-03-30T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-03-30T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Driver/Owner Lot Hospitality Tent', 'start_time_utc': '2025-03-30T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-03-30T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Driver/Owner Lot Hospitality Tent', 'start_time_utc': '2025-03-30T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-03-30T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-03-30T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/180/400 Laps = 210.4 Miles', 'start_time_utc': '2025-03-30T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-03-31T00:00:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,12,True,0,False,0,-1,False,1361,,2025-03-30 15:00:00+00:00,short track
+5558,1,2025,Goodyear 400,1,False,4,Darlington Raceway,2025-04-06T15:00:00,2025-04-06T15:00:00,2025-04-06T15:00:00,2025-04-06T15:00:00,400.24,405.702,293,297,90,95,112,38,4184,170.904,4,4,8,45,120.965,3:21:14,.597,0,"Denny Hamlin won the Goodyear 400 at Darlington Raceway, his 56th NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",0,[],"[{'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-04-04T19:00:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-04-04T21:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-05T11:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-04-05T11:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-04-05T16:35:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-04-05T17:45:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-04-06T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-06T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Cup Series Garage Area Tent', 'start_time_utc': '2025-04-06T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-04-06T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Cup Series Garage Area Tent', 'start_time_utc': '2025-04-06T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-04-06T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-04-06T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 90/185/293 Laps = 400.2 Miles', 'start_time_utc': '2025-04-06T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-04-07T00:00:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,442,True,0,False,0,-1,False,1361,,2025-04-06 15:00:00+00:00,intermediate
+5550,1,2025,Food City 500,1,False,14,Bristol Motor Speedway,2025-04-13T15:00:00,2025-04-13T15:00:00,2025-04-13T15:00:00,2025-04-13T15:00:00,266.5,266.5,500,500,125,125,250,39,4045,128.675,4,4,3,40,100.746,2:38:43,2.250,0,"Kyle Larson has won the Food City 500 at Bristol Motor Speedway, his 31st career victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason indicated: Nos. 22 & 42 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-04-11T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-04-12T10:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-12T12:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-04-12T13:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-04-12T18:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-04-12T19:05:00', 'run_type': 2}
+ {'event_name': 'Cars & Equipment Behind Haulers', 'notes': '', 'start_time_utc': '2025-04-12T20:15:00', 'run_type': 0}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-04-13T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-13T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Garage Bar', 'start_time_utc': '2025-04-13T15:00:00', 'run_type': 0}
+ {'event_name': 'VIP GARAGE ACCESS PERMITTED', 'notes': 'Infield', 'start_time_utc': '2025-04-13T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-04-13T17:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Garage Bar', 'start_time_utc': '2025-04-13T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-04-13T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-04-13T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 125/250/500 Laps = 266.5 Miles', 'start_time_utc': '2025-04-13T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-04-14T00:00:00', 'run_type': 0}]",PRN,FS1,SIRIUSXM,588,True,0,False,0,-1,False,4030,,2025-04-13 15:00:00+00:00,short track
+5555,1,2025,Jack Link's 500,1,True,82,Talladega Superspeedway,2025-04-27T15:00:00,2025-04-27T15:00:00,2025-04-26T00:00:00,2025-04-27T15:00:00,500.08,500.08,188,188,60,60,68,39,4272,182.174,67,23,4,22,157.203,3:10:52,.022,0,"Austin Cindric won the Jack Link's 500 at Talladega Superspeedway, his third victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 44 (Unapproved Adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-04-24T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-04-25T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-25T17:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-04-25T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-26T12:30:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-04-26T14:35:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-04-27T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-04-27T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Xfinity Series Garage Meeting Room', 'start_time_utc': '2025-04-27T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-04-27T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Xfinity Series Garage Meeting Room', 'start_time_utc': '2025-04-27T18:05:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-04-27T18:20:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-04-27T18:30:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/120/188 Laps = 500.08 Miles', 'start_time_utc': '2025-04-27T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-04-28T00:30:00', 'run_type': 0}]",MRN,FOX,SIRIUSXM,957,True,0,False,0,-1,False,4180,,2025-04-27 15:00:00+00:00,superspeedway
+5554,1,2025,Würth 400 presented by LIQUI MOLY,1,False,43,Texas Motor Speedway,2025-05-04T15:30:00,2025-05-04T14:30:00,2025-05-04T14:30:00,2025-05-04T15:30:00,400.5,406.5,267,271,80,85,106,38,4326,191.659,20,13,12,73,116.885,3:28:40,.346,0,"Joey Logano has won the Wurth 400 Presented By LIQUI MOLY at Texas Motor Speedway, his 37th victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-05-01T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-05-02T16:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-02T18:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-05-02T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-03T13:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-05-03T15:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-05-03T16:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-05-04T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-04T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-05-04T16:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-05-04T18:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-05-04T18:30:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-05-04T18:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-05-04T18:55:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-05-04T19:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-05-05T00:30:00', 'run_type': 0}]",PRN,FS1,SIRIUSXM,2100,True,0,False,0,-1,False,3859,,2025-05-04 14:30:00+00:00,intermediate
+5557,1,2025,AdventHealth 400,1,False,41,Kansas Speedway,2025-05-11T15:00:00,2025-05-11T15:00:00,2025-05-11T14:00:00,2025-05-11T15:00:00,400.5,400.5,267,267,80,85,102,38,4030,183.73,15,9,7,37,129.74,3:05:13,.712,0,"Kyle Larson won the AdventHealth 400 at Kansas Speedway, his 32nd NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: Nos. 6, 10, 19, 21, 54, 88, 38 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-05-09T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-05-10T13:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-10T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-05-10T15:30:00', 'run_type': 0}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'D/O Lot, Family Center Room', 'start_time_utc': '2025-05-10T16:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-05-10T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-05-10T21:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-05-11T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-05-11T15:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-05-11T16:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-11T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-05-11T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Tent Behind Media Center', 'start_time_utc': '2025-05-11T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-05-11T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-05-11T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-05-11T19:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-05-12T00:00:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,3884,True,0,False,0,-1,False,4030,,2025-05-11 15:00:00+00:00,intermediate
+5561,1,2025,NASCAR All-Star Open,2,False,177,North Wilkesboro Speedway,2025-05-18T17:30:00,2025-05-18T17:30:00,2025-05-18T17:30:00,2025-05-18T17:30:00,62.5,62.5,100,100,0,0,0,18,4469,76.112,1,2,2,12,98.425,0:38:06,.697,0,Carson Hocevar has won the NASCAR All-Star Open at North Wilkesboro Speedway. John Hunter Nemechek earned the second transfer spot and Noah Gragson won the Fan Vote to advance into the NASCAR All-Star Race.,0,[],"[{'event_name': 'Pit Road Qualifying Entry/Exit Practice', 'notes': 'All Entries', 'start_time_utc': '2025-05-16T20:00:00', 'run_type': 0}
+ {'event_name': 'Qualifying', 'notes': 'OPEN Entries | Single Vehicle/3 Laps/Pit Crew Challenge', 'start_time_utc': '2025-05-16T22:05:00', 'run_type': 2}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests', 'notes': 'Pit Road', 'start_time_utc': '2025-05-18T20:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions (OPEN)', 'notes': 'Drivers Standing By Cars', 'start_time_utc': '2025-05-18T21:15:00', 'run_type': 0}
+ {'event_name': 'Race (OPEN)', 'notes': '100 Laps, 62.5 Miles', 'start_time_utc': '2025-05-18T21:30:00', 'run_type': 3}]",MRN,FS1,SIRIUSXM,3690,True,0,False,0,-1,False,4326,,2025-05-18 17:30:00+00:00,short track
+5562,1,2025,NASCAR All-Star Race,2,False,177,North Wilkesboro Speedway,2025-05-18T20:00:00,2025-05-18T20:00:00,2025-05-18T20:00:00,2025-05-18T20:00:00,156.25,156.25,250,250,0,0,0,23,1816,0.0,18,8,5,32,95.728,1:37:56,.829,0,"Christopher Bell has won the NASCAR All-Star Race at North Wilkesboro Speedway. Prior to the start of the race, the following cars dropped to the rear for reasons indicated: No. 5: driver change.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-05-15T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-05-16T12:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-16T14:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-05-16T15:00:00', 'run_type': 0}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-05-16T19:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'All-Star & Open Entries', 'start_time_utc': '2025-05-16T21:05:00', 'run_type': 1}
+ {'event_name': 'Qualifying', 'notes': 'ALL-STAR Entries | Single Vehicle/3 Laps/Pit Crew Challenge', 'start_time_utc': '2025-05-16T23:00:00', 'run_type': 2}
+ {'event_name': 'Garage Cross-Over Access Time', 'notes': '', 'start_time_utc': '2025-05-17T00:00:00', 'run_type': 0}
+ {'event_name': 'Garage Cross-Over Access Time', 'notes': '', 'start_time_utc': '2025-05-17T00:30:00', 'run_type': 0}
+ {'event_name': 'Garage Cross-Over Access Time', 'notes': '', 'start_time_utc': '2025-05-17T17:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-17T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Cross-Over Access Time', 'notes': '', 'start_time_utc': '2025-05-17T20:15:00', 'run_type': 0}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-05-18T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-05-18T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-18T18:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-05-18T23:00:00', 'run_type': 0}
+ {'event_name': 'Driver & Team Introductions (ALL-STAR)', 'notes': ' ', 'start_time_utc': '2025-05-18T23:35:00', 'run_type': 0}
+ {'event_name': 'Race (ALL-STAR)', 'notes': '250 Laps, 156.25 Miles', 'start_time_utc': '2025-05-19T00:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-05-19T03:30:00', 'run_type': 0}]",MRN,FS1,SIRIUSXM,3670,True,0,False,0,-1,False,4153,,2025-05-18 20:00:00+00:00,short track
+5563,1,2025,Coca-Cola 600,1,False,162,Charlotte Motor Speedway,2025-05-25T18:00:00,2025-05-25T18:00:00,2025-05-24T00:00:00,2025-05-25T18:00:00,600.0,600.0,400,400,100,100,100,40,4228,182.852,34,11,8,52,135.781,4:25:08,.673,0,"Ross Chastain won the Coca-Cola 600 at Charlotte Motor Speedway, his sixth NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear of the field for the reasons indicated: No. 8, 43 (unapproved adjustments), No. 1 (backup car).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-05-23T20:30:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-05-24T10:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-24T12:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-05-24T12:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-05-24T17:35:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-05-24T18:45:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-05-25T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-05-25T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-25T19:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-05-25T19:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-05-25T20:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-05-25T21:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-05-25T21:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-05-25T21:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 100/200/300/400 Laps = 600 Miles', 'start_time_utc': '2025-05-25T22:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-05-26T03:45:00', 'run_type': 0}]",PRN,PRIME VIDEO,SIRIUSXM,447,True,0,False,0,-1,False,4001,,2025-05-25 18:00:00+00:00,intermediate
+5568,1,2025,Cracker Barrel 400,1,False,52,Nashville Superspeedway,2025-06-01T19:00:00,2025-06-01T19:00:00,2025-05-31T00:00:00,2025-06-01T19:00:00,399.0,399.0,300,300,90,95,115,39,4228,164.395,18,9,7,35,129.068,3:05:29,2.830,0,"Ryan Blaney won the Cracker Barrel 400 at Nashville Superspeedway, his 14th NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 16 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-05-29T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-05-30T22:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-05-31T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-05-31T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-05-31T20:35:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-05-31T21:45:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-06-01T19:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-06-01T19:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-01T20:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Tent, Infield Turn 1', 'start_time_utc': '2025-06-01T20:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-06-01T21:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Tent, Infield Turn 1', 'start_time_utc': '2025-06-01T22:05:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-06-01T22:20:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-06-01T22:30:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 90/185/300 Laps = 399 Miles', 'start_time_utc': '2025-06-01T23:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-06-02T04:30:00', 'run_type': 0}]",PRN,PRIME VIDEO,SIRIUSXM,5035,True,0,False,0,-1,False,4023,,2025-06-01 19:00:00+00:00,intermediate
+5573,1,2025,FireKeepers Casino 400,1,False,133,Michigan International Speedway,2025-06-08T14:00:00,2025-06-08T14:00:00,2025-06-08T14:00:00,2025-06-08T14:00:00,400.0,400.0,200,200,45,75,80,36,4228,195.514,15,11,7,33,142.574,2:48:20,1.099,0,"Denny Hamlin won the FireKeepers Casino 400 at Michigan International Speedway, his 57th NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear of the field for the reasons indicated: No. 45 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-06-05T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-06-06T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-06T16:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-06-06T16:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-07T11:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-06-07T13:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-06-07T14:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-06-08T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-06-08T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-08T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Michigan Room', 'start_time_utc': '2025-06-08T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-06-08T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Michigan Room', 'start_time_utc': '2025-06-08T17:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-06-08T17:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-06-08T17:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 45/120/200 Laps = 400 Miles', 'start_time_utc': '2025-06-08T18:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-06-08T23:00:00', 'run_type': 0}]",MRN,PRIME VIDEO,SIRIUSXM,930,True,0,False,0,-1,False,1361,,2025-06-08 14:00:00+00:00,superspeedway
+5552,1,2025,Viva Mexico 250,1,False,75,Autódromo Hermanos Rodríguez,2025-06-15T15:00:00,2025-06-15T15:00:00,2025-06-15T13:00:00,2025-06-15T15:00:00,242.0,251.8,100,100,20,25,55,37,4469,93.904,14,8,6,16,74.82,3:14:04,16.567,0,"Shane Van Gisbergen won the Viva Mexico 250 at Autodromo Hermanos Rodriguez, his second NASCAR Cup Series victory. Prior to the green flag, the following car dropped to the rear for the reason indicated: No. 4 (backup car).",0,[],"[{'event_name': 'Haulers Enter', 'notes': 'Staging Area, Turn 4 Runoff', 'start_time_utc': '2025-06-11T09:00:00', 'run_type': 0}
+ {'event_name': 'Sanctioning Body Hauler Load-In ', 'notes': 'Garage Area', 'start_time_utc': '2025-06-11T15:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter Garage Area', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-06-12T18:00:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-06-12T23:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-13T14:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-06-13T15:00:00', 'run_type': 0}
+ {'event_name': 'Practice 1', 'notes': 'All Entries', 'start_time_utc': '2025-06-13T20:05:00', 'run_type': 1}
+ {'event_name': 'Practice 2', 'notes': 'All Entries', 'start_time_utc': '2025-06-13T21:30:00', 'run_type': 1}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-06-14T12:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-14T13:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': ' ', 'start_time_utc': '2025-06-14T13:30:00', 'run_type': 0}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-06-14T17:00:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group 1 & 2: Multi-Vehicle', 'start_time_utc': '2025-06-14T18:05:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-06-15T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-06-15T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Top Floor of Garage Building - Suite 6', 'start_time_utc': '2025-06-15T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-15T15:30:00', 'run_type': 0}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-06-15T15:30:00', 'run_type': 0}
+ {'event_name': 'Grid Formation', 'notes': 'Front Straight - Angled', 'start_time_utc': '2025-06-15T16:15:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': ' ', 'start_time_utc': '2025-06-15T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Top Floor of Garage Building - Suite 6', 'start_time_utc': '2025-06-15T17:45:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-06-15T18:05:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Stadium Section Stage / Turn 12', 'start_time_utc': '2025-06-15T18:15:00', 'run_type': 0}
+ {'event_name': 'Full-Field Photo (ALL DRIVERS)', 'notes': 'Front Straight', 'start_time_utc': '2025-06-15T18:40:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 20/45/100 Laps = 242 Miles', 'start_time_utc': '2025-06-15T19:00:00', 'run_type': 3}
+ {'event_name': 'Victory Podium Celebration', 'notes': 'Stadium Section Stage / Turn 12', 'start_time_utc': '2025-06-15T22:30:00', 'run_type': 0}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-06-16T04:30:00', 'run_type': 0}]",MRN,PRIME VIDEO,SIRIUSXM,5038,True,0,False,0,-1,False,4469,,2025-06-15 15:00:00+00:00,road course
+5570,1,2025,The Great American Getaway 400 Presented by VISITPA.COM,1,False,198,Pocono Raceway,2025-06-22T14:00:00,2025-06-22T14:00:00,2025-06-22T14:00:00,2025-06-22T14:00:00,400.0,400.0,160,160,30,65,65,37,1361,172.599,11,9,7,31,130.199,3:04:20,.682,0,"Chase Briscoe has won the The Great American Getaway 400 Presented by VISITPA.COM at Pocono Raceway, his third victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 10, 12, 21, 23, 24, 51 (Unapproved adjustments), No. 44 (Multiple inspection failures).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-06-19T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-06-20T19:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-21T11:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-06-21T11:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-06-21T16:35:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-06-21T17:45:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-06-22T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-06-22T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-22T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': ""NASCAR O'Reilly Auto Parts Series Garage Area"", 'start_time_utc': '2025-06-22T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-06-22T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': ""NASCAR O'Reilly Auto Parts Series Garage Area"", 'start_time_utc': '2025-06-22T17:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Victory Lane', 'start_time_utc': '2025-06-22T17:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Victory Lane', 'start_time_utc': '2025-06-22T17:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 30/95/160 Laps = 400 Miles', 'start_time_utc': '2025-06-22T18:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-06-22T23:00:00', 'run_type': 0}]",MRN,PRIME VIDEO,SIRIUSXM,1358,True,0,False,0,-1,False,4228,,2025-06-22 14:00:00+00:00,superspeedway
+5576,1,2025,Quaker State 400 Available at Walmart,1,True,111,Atlanta Motor Speedway,2025-06-28T19:00:00,2025-06-28T19:00:00,2025-06-28T19:00:00,2025-06-28T19:00:00,400.4,400.4,260,260,60,100,100,40,3859,178.96,46,13,10,68,111.792,3:34:54,.168,0,"Chase Elliott won the Quaker State 400 at EchoPark Speedway, his 20th NASCAR Cup Series victory. Prior to the start of the race, no cars dropped to the rear of the field under penalty.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-06-25T21:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Parade', 'notes': '', 'start_time_utc': '2025-06-27T11:30:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-06-27T12:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-27T14:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-06-27T14:30:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-06-27T21:05:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-06-28T19:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-06-28T19:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-06-28T20:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-06-28T21:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center | Press Conference Room', 'start_time_utc': '2025-06-28T21:45:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center | Press Conference Room', 'start_time_utc': '2025-06-28T22:05:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-06-28T22:20:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-06-28T22:30:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/160/260 Laps = 400.4 Miles', 'start_time_utc': '2025-06-28T23:00:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-06-29T03:45:00', 'run_type': 0}]",PRN,TNT,SIRIUSXM,3335,True,0,False,0,-1,False,4062,,2025-06-28 19:00:00+00:00,intermediate
+5569,1,2025,Grant Park 165,1,False,218,Chicago Street Race,2025-07-06T14:00:00,2025-07-06T14:00:00,2025-07-06T13:00:00,2025-07-06T14:00:00,165.0,165.0,75,75,20,25,30,40,4469,88.338,6,5,7,15,66.764,2:28:17,Under Caution,0,"Shane Van Gisbergen won The Grant Park 165 at the Chicago Street Race, his third NASCAR Cup Series victory. Prior to the green flag to start the race, the following cars dropped to the rear for the reasons indicated: No. 11 (engine change); Nos. 4, 5, 9, 10, 23, 24, 47, 48, 78.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-07-03T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Depart Marshalling Yard', 'notes': '', 'start_time_utc': '2025-07-04T14:45:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-07-04T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-07-04T19:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-04T19:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-05T15:00:00', 'run_type': 0}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-07-05T16:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-07-05T17:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group 1 & 2: Multi-Vehicle', 'start_time_utc': '2025-07-05T18:10:00', 'run_type': 2}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-07-05T19:00:00', 'run_type': 0}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': 'Garage Area', 'start_time_utc': '2025-07-06T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-07-06T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-06T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Stock Exchange Room, Art Institute', 'start_time_utc': '2025-07-06T15:00:00', 'run_type': 0}
+ {'event_name': 'Pit Road Equipment Transition In Progress', 'notes': '', 'start_time_utc': '2025-07-06T15:50:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Stock Exchange Room, Art Institute', 'start_time_utc': '2025-07-06T16:55:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-07-06T17:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': ' ', 'start_time_utc': '2025-07-06T17:10:00', 'run_type': 0}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': 'Driver Intro Floats / Turn 12 Cut-Out', 'start_time_utc': '2025-07-06T17:15:00', 'run_type': 0}
+ {'event_name': 'Drivers Exit Floats at Pit Road Entrance', 'notes': 'Drivers Walk to Pre-Race Stage', 'start_time_utc': '2025-07-06T17:30:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-07-06T17:35:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 20/45/75 Laps = 165 Miles', 'start_time_utc': '2025-07-06T18:00:00', 'run_type': 3}
+ {'event_name': 'Victory Lane Celebration', 'notes': '', 'start_time_utc': '2025-07-06T21:35:00', 'run_type': 0}
+ {'event_name': 'Haulers Staged for Coordinated Exit', 'notes': '', 'start_time_utc': '2025-07-06T23:00:00', 'run_type': 0}]",MRN,TNT,SIRIUSXM,5291,True,0,False,0,-1,False,4469,,2025-07-06 14:00:00+00:00,road course
+5565,1,2025,Toyota / Save Mart 350,1,False,99,Sonoma Raceway,2025-07-13T15:30:00,2025-07-13T15:30:00,2025-07-13T12:30:00,2025-07-13T15:30:00,218.9,218.9,110,110,25,30,55,37,4469,96.04,12,6,6,17,75.087,2:54:55,1.128,0,"Shane van Gisbergen has won the Toyota / Save Mart 350 at Sonoma Raceway, his fourth victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-07-11T00:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-07-11T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-11T21:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-07-11T21:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-12T15:30:00', 'run_type': 0}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Tech Garage, Turn 1', 'start_time_utc': '2025-07-12T16:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-07-12T17:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group 1 & 2: Multi-Vehicle', 'start_time_utc': '2025-07-12T18:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-07-13T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-07-13T16:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-13T16:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-07-13T18:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Tech Garage, Turn 1', 'start_time_utc': '2025-07-13T18:15:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Tech Garage, Turn 1', 'start_time_utc': '2025-07-13T18:35:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-07-13T18:50:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-07-13T19:00:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 25/55/110 Laps = 218.9 Miles', 'start_time_utc': '2025-07-13T19:30:00', 'run_type': 3}
+ {'event_name': 'Haulers Exit', 'notes': '', 'start_time_utc': '2025-07-14T00:30:00', 'run_type': 0}]",PRN,TNT,SIRIUSXM,5042,True,0,False,0,-1,False,4469,,2025-07-13 15:30:00+00:00,road course
+5556,1,2025,Autotrader EchoPark Automotive 400,1,False,103,Dover Motor Speedway,2025-07-20T14:00:00,2025-07-20T14:00:00,2025-07-19T00:00:00,2025-07-20T14:00:00,400.0,407.0,400,407,120,130,157,37,0,0.0,13,10,8,50,110.849,3:40:18,.310,0,"Denny Hamlin won the 56th running of the Autotrader EchoPark Automotive 400 at Dover Motor Speedway, his 58th victory in the NASCAR Cup Series. Prior to the start of the race, the following cars dropped to the rear of the field under penalty for the reasons indicated: None.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-07-17T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-07-18T13:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-19T12:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-07-19T12:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-07-19T17:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-07-19T18:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-07-20T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-07-20T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-20T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'ARCA Garage Area Tent', 'start_time_utc': '2025-07-20T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-07-20T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'ARCA Garage Area Tent', 'start_time_utc': '2025-07-20T17:05:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-07-20T17:20:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-07-20T17:30:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 120/250/400 Laps = 400 Miles', 'start_time_utc': '2025-07-20T18:00:00', 'run_type': 3}]",PRN,TNT,SIRIUSXM,922,True,0,False,0,-1,False,1361,,2025-07-20 14:00:00+00:00,intermediate
+5571,1,2025,Brickyard 400,1,False,123,Indianapolis Motor Speedway,2025-07-27T14:00:00,2025-07-27T14:00:00,2025-07-27T14:00:00,2025-07-27T14:00:00,400.0,420.0,160,168,50,50,68,39,4228,183.165,15,10,6,28,124.598,3:22:15,.222,0,"Bubba Wallace has won the Brickyard 400 Presented by PPG at Indianapolis Motor Speedway, his third career victory in the NASCAR Cup Series. ",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-07-24T21:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Parade', 'notes': ' ', 'start_time_utc': '2025-07-24T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Parking Only', 'start_time_utc': '2025-07-24T23:00:00', 'run_type': 0}
+ {'event_name': 'Team Access for Equipment Set Up Permitted', 'notes': '', 'start_time_utc': '2025-07-25T12:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-07-25T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-25T14:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Canceled', 'start_time_utc': '2025-07-25T17:05:00', 'run_type': 1}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-26T12:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-07-26T12:15:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed | All Entries: 25 Minutes', 'start_time_utc': '2025-07-26T18:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-07-26T18:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-07-27T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-07-27T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-07-27T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-07-27T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Pavilion 4', 'start_time_utc': '2025-07-27T16:20:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Pavilion 4', 'start_time_utc': '2025-07-27T17:00:00', 'run_type': 0}
+ {'event_name': 'BRICK WALK (ALL DRIVERS)', 'notes': 'Staggered Procession To Pagoda', 'start_time_utc': '2025-07-27T17:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Victory Podium', 'start_time_utc': '2025-07-27T17:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 50/100/160 Laps = 400 Miles ', 'start_time_utc': '2025-07-27T18:00:00', 'run_type': 3}]",IMS,TNT,SIRIUSXM,5074,True,0,False,0,-1,False,4025,,2025-07-27 14:00:00+00:00,superspeedway
+5566,1,2025,Iowa Corn 350 Powered by Ethanol,1,False,206,Iowa Speedway,2025-08-03T15:30:00,2025-08-03T15:30:00,2025-08-02T00:00:00,2025-08-03T15:30:00,306.25,306.25,350,350,70,140,140,37,4228,136.933,10,6,12,72,92.905,3:17:47,1.192,0,"William Byron has won the Iowa Corn 350 Powered by Ethanol at Iowa Speedway, his 15th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 4 (Unapproved adjustments), No. 8 (Backup Car).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-07-31T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-08-01T21:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-02T12:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-08-02T12:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-08-02T17:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-08-02T18:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-08-03T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-08-03T16:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-03T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-08-03T16:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-08-03T18:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-08-03T18:25:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-08-03T18:40:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-08-03T18:50:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 70/210/350 Laps = 306.25 Miles', 'start_time_utc': '2025-08-03T19:30:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,5386,True,0,False,0,-1,False,4184,,2025-08-03 15:30:00+00:00,short track
+5577,1,2025,Go Bowling at The Glen,1,False,157,Watkins Glen International,2025-08-10T14:00:00,2025-08-10T14:00:00,2025-08-09T00:00:00,2025-08-10T14:00:00,220.5,220.5,90,90,20,20,50,39,4023,122.568,8,6,3,8,101.263,2:10:39,11.116,0,"Shane van Gisbergen won the Go Bowling at The Glen at Watkins Glen International, his fifth NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-08-07T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-08-08T11:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-09T11:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-08-09T11:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-08-09T16:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Multi-Vehicle: Group 1 / Group 2', 'start_time_utc': '2025-08-09T17:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-08-10T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-08-10T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-10T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center 2nd Floor - Great Room', 'start_time_utc': '2025-08-10T15:00:00', 'run_type': 0}
+ {'event_name': 'Sponsor Parade Lap', 'notes': '', 'start_time_utc': '2025-08-10T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-08-10T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center 2nd Floor - Great Room', 'start_time_utc': '2025-08-10T16:50:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': '', 'start_time_utc': '2025-08-10T17:05:00', 'run_type': 0}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': 'Driver Intro Trucks / adjacent to Victory Lane', 'start_time_utc': '2025-08-10T17:10:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Parade Lap To Stage on Start/Finish Line', 'start_time_utc': '2025-08-10T17:20:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 20/40/90 Laps = 220.5 Miles', 'start_time_utc': '2025-08-10T18:00:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,5071,True,0,False,0,-1,False,4469,,2025-08-10 14:00:00+00:00,road course
+5572,1,2025,Cook Out 400,1,False,26,Richmond Raceway,2025-08-16T19:30:00,2025-08-16T19:30:00,2025-08-15T00:00:00,2025-08-16T19:30:00,300.0,300.0,400,400,70,160,170,38,4070,121.381,24,11,5,44,94.126,3:11:14,2.471,0,"Austin Dillon has won the Cook Out 400 at Richmond Raceway, his sixth victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 22, 34 (Unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-08-14T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-08-15T12:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-15T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-08-15T15:30:00', 'run_type': 0}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-08-15T17:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-08-15T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-08-15T21:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-08-16T19:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-08-16T20:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center Hospitality Room', 'start_time_utc': '2025-08-16T20:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-16T20:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-08-16T22:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Media Center Hospitality Room', 'start_time_utc': '2025-08-16T22:30:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': ' ', 'start_time_utc': '2025-08-16T22:45:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Turn 1', 'start_time_utc': '2025-08-16T22:55:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 70/230/400 Laps = 300 Miles', 'start_time_utc': '2025-08-16T23:30:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,1544,True,0,False,0,-1,False,3873,,2025-08-16 19:30:00+00:00,short track
+5574,1,2025,Coke Zero Sugar 400,1,True,105,Daytona International Speedway,2025-08-23T19:30:00,2025-08-23T19:30:00,2025-08-22T00:00:00,2025-08-23T19:30:00,400.0,400.0,160,160,35,60,65,40,0,0.0,44,19,8,39,130.909,3:03:20,.031,0,"Ryan Blaney has won the Coke Zero Sugar 400 at Daytona International Speedway, his 15th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 44 (unapproved adjustments), and No. 24 (Unapproved adjustments after inspections, crew chief was ejected car will start at the rear of the field and must perform a stop and go penalty after they receive the green flag.)",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-08-21T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-08-22T11:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-22T13:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-08-22T13:30:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-08-22T21:00:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-08-23T19:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-08-23T20:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-23T20:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-08-23T20:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-08-23T22:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-08-23T22:35:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Access via Golf Cart drop-off point at Rolex Chute', 'start_time_utc': '2025-08-23T22:50:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-08-23T23:00:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 35/95/160 Laps = 400 Miles', 'start_time_utc': '2025-08-23T23:30:00', 'run_type': 3}]",MRN,NBC,SIRIUSXM,408,True,0,False,0,-1,False,4023,,2025-08-23 19:30:00+00:00,superspeedway
+5575,1,2025,Cook Out Southern 500,1,False,4,Darlington Raceway,2025-08-31T18:00:00,2025-08-31T18:00:00,2025-08-30T00:00:00,2025-08-31T18:00:00,501.32,501.32,367,367,115,115,137,38,1361,171.381,24,10,7,37,130.148,3:51:07,.408,0,"Chase Briscoe won the Cook Out Southern 500, his fourth NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear for the reason indicated: Nos. 34, 51 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-08-28T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-08-28T23:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-29T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-08-29T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-30T11:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-08-30T13:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-08-30T14:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-08-31T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-08-31T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-08-31T19:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Cup Series Garage Area Tent', 'start_time_utc': '2025-08-31T19:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-08-31T20:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Cup Series Garage Area Tent', 'start_time_utc': '2025-08-31T20:50:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-08-31T21:05:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-08-31T21:15:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 115/230/367 Laps =  501.32 Miles ', 'start_time_utc': '2025-08-31T22:00:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,442,True,1,False,0,-1,False,4228,,2025-08-31 18:00:00+00:00,intermediate
+5564,1,2025,Enjoy Illinois 300,1,False,45,World Wide Technology Raceway,2025-09-07T15:00:00,2025-09-07T15:00:00,2025-09-06T00:00:00,2025-09-07T15:00:00,300.0,300.0,240,240,45,95,100,36,1361,139.19,15,9,10,52,98.262,3:03:11,1.620,0,"Denny Hamlin has won the Enjoy Illinois 300 at World Wide Technology Raceway, his 59th career victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: No. 7 (Unapproved Adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-09-04T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-09-06T12:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-06T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-09-06T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-09-06T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-09-06T21:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': ' ', 'start_time_utc': '2025-09-07T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-09-07T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-07T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-09-07T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-09-07T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-09-07T18:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-09-07T18:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Fan Zone Stage', 'start_time_utc': '2025-09-07T18:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 45/140/240 Laps = 300 Miles', 'start_time_utc': '2025-09-07T19:00:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,5162,True,1,False,0,-1,False,1361,,2025-09-07 15:00:00+00:00,intermediate
+5578,1,2025,Bass Pro Shops Night Race,1,False,14,Bristol Motor Speedway,2025-09-13T19:30:00,2025-09-13T19:30:00,2025-09-12T00:00:00,2025-09-13T19:30:00,266.5,266.5,500,500,125,125,250,39,3774,126.93,36,14,14,137,69.686,3:48:10,.343,0,"Christopher Bell won the Bass Pro Shops Night Race at Bristol Motor Speedway, his 13th NASCAR Cup Series victory. Prior to the green flag, no cars dropped to the rear. ",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-09-11T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-09-12T13:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-12T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-09-12T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-09-12T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-09-12T21:40:00', 'run_type': 2}
+ {'event_name': 'Cars & Equipment Behind Haulers', 'notes': '', 'start_time_utc': '2025-09-12T22:45:00', 'run_type': 0}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-09-13T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-13T19:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Garage Bar', 'start_time_utc': '2025-09-13T19:30:00', 'run_type': 0}
+ {'event_name': 'VIP GARAGE ACCESS PERMITTED', 'notes': 'Infield', 'start_time_utc': '2025-09-13T20:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-09-13T22:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Garage Bar', 'start_time_utc': '2025-09-13T22:20:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-09-13T22:35:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-09-13T22:45:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 125/250/500 Laps = 266.5 Miles', 'start_time_utc': '2025-09-13T23:30:00', 'run_type': 3}]",PRN,USA,SIRIUSXM,612,True,1,False,0,-1,False,4153,,2025-09-13 19:30:00+00:00,short track
+5567,1,2025,Mobil 1 301,1,False,138,New Hampshire Motor Speedway,2025-09-21T14:00:00,2025-09-21T14:00:00,2025-09-21T14:00:00,2025-09-21T14:00:00,318.46,318.458,301,301,70,115,116,36,3859,130.622,14,7,8,45,101.699,3:07:53,.937,0,"Ryan Blaney has won the Mobil 1 301 at New Hampshire Motor Speedway, his 16th victory in the NASCAR Cup Series. Prior to the start of the race, no vehicle(s) dropped to the rear of the field under penalty. ",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-09-18T21:00:00', 'run_type': 0}
+ {'event_name': 'Hauler Parade', 'notes': '', 'start_time_utc': '2025-09-19T17:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-09-19T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-20T13:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-09-20T14:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-09-20T19:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-09-20T20:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-09-21T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-09-21T14:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Infield Hospitality Tent', 'start_time_utc': '2025-09-21T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-21T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-09-21T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Infield Hospitality Tent', 'start_time_utc': '2025-09-21T16:50:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-09-21T17:05:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-09-21T17:15:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 70/185/301 Laps = 318.46 Miles', 'start_time_utc': '2025-09-21T18:00:00', 'run_type': 3}]",PRN,USA,SIRIUSXM,1683,True,2,False,0,-1,False,4023,,2025-09-21 14:00:00+00:00,short track
+5579,1,2025,Hollywood Casino 400 Presented by ESPN BET,1,False,41,Kansas Speedway,2025-09-28T15:00:00,2025-09-28T15:00:00,2025-09-28T14:00:00,2025-09-28T15:00:00,400.5,409.5,267,273,80,85,108,37,4228,180.078,20,11,9,48,123.106,3:19:35,.069,0,"Chase Elliott has won the Hollywood Casino 400 presented by ESPN BET at Kansas Speedway, his 21st victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 10, 14, 25 (Unapproved Adjustments). Additional penalties: Nos. 71 and 88 - Unapproved adjustments (Splitter), crew chiefs ejected, loss of pit selection, start at the rear of the field, the vehicle must perform a stop and go penalty after receiving the green flag.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-09-25T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-09-26T18:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-27T11:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-09-27T12:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-09-27T17:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-09-27T18:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-09-28T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-09-28T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-09-28T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-09-28T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-09-28T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Tent Behind Media Center', 'start_time_utc': '2025-09-28T17:50:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-09-28T18:05:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-09-28T18:15:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-09-28T19:00:00', 'run_type': 3}]",MRN,USA,SIRIUSXM,1950,True,2,False,0,-1,False,4062,,2025-09-28 15:00:00+00:00,intermediate
+5581,1,2025,Bank of America ROVAL 400,1,False,210,Charlotte Motor Speedway Road Course,2025-10-05T15:00:00,2025-10-05T15:00:00,2025-10-05T15:00:00,2025-10-05T15:00:00,248.52,248.52,109,109,25,25,59,37,4065,95.51,15,6,3,10,81.105,3:03:51,15.160,0,"Shane van Gisbergen won the Bank of America Roval 400, his sixth NASCAR Cup Series victory. Prior to the green flag, the following cars dropped to the rear: Nos. 35, 43 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-10-02T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-10-04T00:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-04T12:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-10-04T13:00:00', 'run_type': 0}
+ {'event_name': 'Driver Competition Briefing (Full-Time Competitors)', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-10-04T14:00:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-10-04T18:00:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Group 1 & 2: Multi-Vehicle', 'start_time_utc': '2025-10-04T19:10:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-10-05T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-10-05T15:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-05T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-10-05T16:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-10-05T17:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'XFINITY Series Garage Area', 'start_time_utc': '2025-10-05T17:50:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': ' ', 'start_time_utc': '2025-10-05T18:05:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Pit Road Stage', 'start_time_utc': '2025-10-05T18:15:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 25/50/109 Laps = 248.52 Miles', 'start_time_utc': '2025-10-05T19:00:00', 'run_type': 3}]",PRN,USA,SIRIUSXM,4707,True,2,False,0,-1,False,4469,,2025-10-05 15:00:00+00:00,road course
+5582,1,2025,South Point 400,1,False,42,Las Vegas Motor Speedway,2025-10-12T17:30:00,2025-10-12T17:30:00,2025-10-12T14:30:00,2025-10-12T17:30:00,400.5,400.5,267,267,80,85,102,38,1361,184.849,21,11,5,32,137.131,2:55:14,1.533,0,"Denny Hamlin has won the South Point 400 at Las Vegas Motor Speedway, his 60th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: Nos. 1 (Unapproved adjustments). ",0,[],"[{'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-10-10T22:30:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-10-11T00:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-11T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-10-11T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-10-11T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-10-11T21:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-10-12T17:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-10-12T18:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'NEON Garage', 'start_time_utc': '2025-10-12T18:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-12T18:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-10-12T20:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'NEON Garage', 'start_time_utc': '2025-10-12T20:25:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-10-12T20:40:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-10-12T20:50:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 80/165/267 Laps = 400.5 Miles', 'start_time_utc': '2025-10-12T21:30:00', 'run_type': 3}]",PRN,USA,SIRIUSXM,4705,True,3,False,0,-1,False,1361,,2025-10-12 17:30:00+00:00,intermediate
+5580,1,2025,YellaWood 500,1,True,82,Talladega Superspeedway,2025-10-19T14:00:00,2025-11-17T14:00:00,2025-11-10T13:23:00,2025-10-19T14:00:00,500.08,513.38,188,193,60,60,73,40,3832,182.466,80,27,6,28,149.178,3:26:29,.145,0,"Chase Briscoe won the YellaWood 500 at Talladega Superspeedway, his fifth NASCAR Cup Series victory. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty for the reason(s) indicated: Nos. 35, 42, 43 (unapproved adjustments).",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-10-16T22:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': '', 'start_time_utc': '2025-10-17T13:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-17T17:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-10-17T17:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-18T15:00:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'Single Vehicle / 1 Lap / 2 Rounds', 'start_time_utc': '2025-10-18T17:30:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-10-19T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-10-19T14:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Xfinity Series Garage Meeting Room', 'start_time_utc': '2025-10-19T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-19T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-10-19T16:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Xfinity Series Garage Meeting Room', 'start_time_utc': '2025-10-19T17:10:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-10-19T17:25:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-10-19T17:35:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/120/188 Laps = 500.08 Miles', 'start_time_utc': '2025-10-19T18:00:00', 'run_type': 3}]",MRN,NBC,SIRIUSXM,937,True,3,False,0,-1,False,4228,,2025-11-17 14:00:00+00:00,superspeedway
+5584,1,2025,Xfinity 500,1,False,22,Martinsville Speedway,2025-10-26T14:00:00,2025-10-26T14:00:00,2025-10-26T14:00:00,2025-10-26T14:00:00,263.0,263.0,500,500,130,130,240,37,4184,98.185,7,5,10,78,73.744,3:33:59,.717,0,"William Byron won the Xfinity 500 at Martinsville Speedway, his 16th NASCAR Cup Series victory. No cars dropped to the rear prior to the green flag to start the race.",0,[],"[{'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-10-22T21:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Equipment Unloading', 'start_time_utc': '2025-10-25T13:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-25T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': '', 'start_time_utc': '2025-10-25T15:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - Group 1 25 Mins. | 10 Min. Break | Group 2 25 Mins.', 'start_time_utc': '2025-10-25T20:30:00', 'run_type': 1}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 2 Laps', 'start_time_utc': '2025-10-25T21:40:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-10-26T14:00:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-10-26T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-26T15:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'Driver/Owner Lot Hospitality Tent', 'start_time_utc': '2025-10-26T15:00:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-10-26T16:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'Driver/Owner Lot Hospitality Tent', 'start_time_utc': '2025-10-26T17:00:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'Staggered Exit Via Route To Stage', 'start_time_utc': '2025-10-26T17:15:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': ' ', 'start_time_utc': '2025-10-26T17:25:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 130/260/500 Laps = 263 Miles', 'start_time_utc': '2025-10-26T18:00:00', 'run_type': 3}]",MRN,NBC,SIRIUSXM,6,True,3,False,0,-1,False,4184,,2025-10-26 14:00:00+00:00,short track
+5585,1,2025,NASCAR Cup Series Championship,1,False,84,Phoenix Raceway,2025-11-02T15:00:00,2025-11-02T15:00:00,2025-11-02T13:00:00,2025-11-02T15:00:00,312.0,319.0,312,319,60,125,134,38,1361,133.759,16,6,9,65,97.711,3:15:53,.097,0,"Ryan Blaney has won the NASCAR Cup Series Championship Race at Phoenix Raceway, his 17th victory in the NASCAR Cup Series. Prior to the start of the race, the following vehicle(s) dropped to the rear of the field under penalty: No. 16 (backup car). ",0,[],"[{'event_name': 'Championship 4 Media Day ', 'notes': 'Phoenix Raceway', 'start_time_utc': '2025-10-30T20:00:00', 'run_type': 0}
+ {'event_name': 'Driver / Crew Chief Meeting', 'notes': 'Sent Electronically', 'start_time_utc': '2025-10-31T00:00:00', 'run_type': 0}
+ {'event_name': 'Haulers Enter', 'notes': 'Parade / Equipment Unloading ', 'start_time_utc': '2025-10-31T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-10-31T17:30:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': ' ', 'start_time_utc': '2025-10-31T17:30:00', 'run_type': 0}
+ {'event_name': 'Practice', 'notes': 'Timed - 50 Minutes ', 'start_time_utc': '2025-10-31T21:35:00', 'run_type': 1}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-11-01T15:00:00', 'run_type': 0}
+ {'event_name': 'Technical Inspections ', 'notes': ' ', 'start_time_utc': '2025-11-01T16:30:00', 'run_type': 0}
+ {'event_name': 'Mandatory Driver Competition Briefing', 'notes': 'Media Center Meeting Room', 'start_time_utc': '2025-11-01T19:00:00', 'run_type': 0}
+ {'event_name': 'Qualifying (Impound)', 'notes': 'All Entries: Single Vehicle / 1 Lap', 'start_time_utc': '2025-11-01T21:00:00', 'run_type': 2}
+ {'event_name': 'Team Access To Haulers Permitted', 'notes': '', 'start_time_utc': '2025-11-02T14:30:00', 'run_type': 0}
+ {'event_name': 'Garage & Pit Pass Holder - Garage Access Permitted', 'notes': '', 'start_time_utc': '2025-11-02T15:00:00', 'run_type': 0}
+ {'event_name': 'Garage Hours', 'notes': '', 'start_time_utc': '2025-11-02T15:30:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting (Space Open)', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-11-02T15:30:00', 'run_type': 0}
+ {'event_name': 'Grid Access Open to Properly Credentialed Guests (Until End of Anthem)', 'notes': 'Pit Road', 'start_time_utc': '2025-11-02T18:30:00', 'run_type': 0}
+ {'event_name': 'RED CARPET WALK (ALL DRIVERS)', 'notes': 'On Entry to the Meeting Room', 'start_time_utc': '2025-11-02T19:00:00', 'run_type': 0}
+ {'event_name': 'The Drivers Meeting', 'notes': 'The Drivers Meeting Room', 'start_time_utc': '2025-11-02T19:10:00', 'run_type': 0}
+ {'event_name': 'Drivers Report For Pre-Race', 'notes': ""NASCAR O'Reilly Auto Parts Series Garage Area"", 'start_time_utc': '2025-11-02T19:30:00', 'run_type': 0}
+ {'event_name': 'Driver Introductions', 'notes': 'Ride-Around Vehicle', 'start_time_utc': '2025-11-02T19:35:00', 'run_type': 0}
+ {'event_name': 'Race', 'notes': 'Stages 60/185/312 Laps = 312 Miles', 'start_time_utc': '2025-11-02T20:00:00', 'run_type': 3}]",MRN,NBC,SIRIUSXM,1550,True,4,False,0,-1,False,4023,,2025-11-02 15:00:00+00:00,short track

@@ -1,0 +1,1501 @@
+race_id,driver_id,driver_name,team,team_id,starting_position,finishing_position
+5543,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,28,0
+5543,4013,Ty Dillon,Kaulig Racing,3249,30,0
+5543,3774,AJ Allmendinger,Kaulig Racing,3049,36,0
+5543,4104,Cole Custer,Haas Factory Team,2767,33,0
+5543,4269,Riley Herbst,23XI Racing,3250,38,0
+5543,4142,Garrett Smithley,Power Source,2256,34,0
+5543,3873,Austin Dillon,Richard Childress Racing,2765,24,0
+5543,4272,Zane Smith,Front Row Motorsports,2485,27,0
+5543,3918,Burt Myers,Team AmeriVet,3051,39,0
+5543,4125,Cody Ware,Rick Ware Racing,1430,32,0
+5543,3832,Michael McDowell,Spire Motorsports,3213,26,0
+5543,4092,John Hunter Nemechek,Legacy Motor Club,3130,25,0
+5543,4059,Erik Jones,Legacy Motor Club,1690,37,0
+5543,3919,Tim Brown,Rick Ware Racing,3106,31,0
+5543,4172,Justin Haley,Spire Motorsports,3077,29,0
+5543,4368,Ty Gibbs,Joe Gibbs Racing,3175,35,0
+5543,4062,Chase Elliott,Hendrick Motorsports,2952,1,1
+5543,4023,Ryan Blaney,Team Penske,1460,23,2
+5543,1361,Denny Hamlin,Joe Gibbs Racing,1447,3,3
+5543,3859,Joey Logano,Team Penske,2593,7,4
+5543,4025,Bubba Wallace,23XI Racing,3078,14,5
+5543,4001,Ross Chastain,Trackhouse Racing,3126,17,6
+5543,4180,Austin Cindric,Team Penske,1547,16,7
+5543,4065,Tyler Reddick,23XI Racing,3131,4,8
+5543,4469,Shane Van Gisbergen,Trackhouse Racing,3255,10,9
+5543,3989,Chris Buescher,RFK Racing,1513,2,10
+5543,4070,Ryan Preece,RFK Racing,3212,12,11
+5543,4153,Christopher Bell,Joe Gibbs Racing,1550,8,12
+5543,4123,Josh Berry,Wood Brothers Racing,1560,22,13
+5543,4231,Todd Gilliland,Front Row Motorsports,1648,20,14
+5543,454,Kyle Busch,Richard Childress Racing,2983,13,15
+5543,4326,Carson Hocevar,Spire Motorsports,3000,15,16
+5543,4030,Kyle Larson,Hendrick Motorsports,1717,21,17
+5543,4184,William Byron,Hendrick Motorsports,1581,11,18
+5543,4045,Alex Bowman,Hendrick Motorsports,1707,19,19
+5543,4224,Noah Gragson,Front Row Motorsports,3247,9,20
+5543,1816,Brad Keselowski,RFK Racing,2803,5,21
+5543,4113,Daniel Suarez,Trackhouse Racing,3081,18,22
+5543,4228,Chase Briscoe,Joe Gibbs Racing,2810,6,23
+5544,4025,Bubba Wallace,23XI Racing,3078,15,1
+5544,4184,William Byron,Hendrick Motorsports,1581,11,2
+5544,4013,Ty Dillon,Kaulig Racing,3249,5,3
+5544,4001,Ross Chastain,Trackhouse Racing,3126,19,4
+5544,4065,Tyler Reddick,23XI Racing,3131,14,5
+5544,3774,AJ Allmendinger,Kaulig Racing,3049,10,6
+5544,3873,Austin Dillon,Richard Childress Racing,2765,4,7
+5544,4062,Chase Elliott,Hendrick Motorsports,2952,8,8
+5544,34,Justin Allgaier,JR Motorsports,3251,17,9
+5544,454,Kyle Busch,Richard Childress Racing,2983,7,10
+5544,4368,Ty Gibbs,Joe Gibbs Racing,3175,13,11
+5544,3832,Michael McDowell,Spire Motorsports,3213,9,12
+5544,4070,Ryan Preece,RFK Racing,3212,2,13
+5544,4123,Josh Berry,Wood Brothers Racing,1560,3,14
+5544,3368,Martin Truex Jr.,TRICON Garage,3253,12,15
+5544,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,21,16
+5544,3669,JJ Yeley,NY Racing Team,2987,23,17
+5544,4326,Carson Hocevar,Spire Motorsports,3000,18,18
+5544,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,19
+5544,4312,Chandler Smith,Power Source,2256,22,20
+5544,4172,Justin Haley,Spire Motorsports,3077,16,21
+5544,4505,Helio Castroneves,Trackhouse Racing,3168,20,22
+5544,4272,Zane Smith,Front Row Motorsports,2485,6,23
+5545,4180,Austin Cindric,Team Penske,1547,1,1
+5545,4059,Erik Jones,Legacy Motor Club,1690,18,2
+5545,3989,Chris Buescher,RFK Racing,1513,9,3
+5545,1361,Denny Hamlin,Joe Gibbs Racing,1447,3,4
+5545,3859,Joey Logano,Team Penske,2593,2,5
+5545,4096,Corey LaJoie,Rick Ware Racing,3272,17,6
+5545,4231,Todd Gilliland,Front Row Motorsports,1648,7,7
+5545,4023,Ryan Blaney,Team Penske,1460,10,8
+5545,4092,John Hunter Nemechek,Legacy Motor Club,3130,19,9
+5545,4153,Christopher Bell,Joe Gibbs Racing,1550,4,10
+5545,4030,Kyle Larson,Hendrick Motorsports,1717,5,11
+5545,4269,Riley Herbst,23XI Racing,3250,13,12
+5545,4301,Anthony Alfredo,Beard Motorsports,2794,20,13
+5545,4469,Shane Van Gisbergen,Trackhouse Racing,3255,15,14
+5545,4125,Cody Ware,Rick Ware Racing,1430,22,15
+5545,4104,Cole Custer,Haas Factory Team,2767,16,16
+5545,3973,BJ McLeod,Live Fast Motorsports,3080,21,17
+5545,4224,Noah Gragson,Front Row Motorsports,3247,11,18
+5545,1717,Jimmie Johnson,Legacy Motor Club,3179,14,19
+5545,1816,Brad Keselowski,RFK Racing,2803,8,20
+5545,4113,Daniel Suarez,Trackhouse Racing,3081,12,21
+5545,4045,Alex Bowman,Hendrick Motorsports,1707,6,22
+5546,4301,Anthony Alfredo,Beard Motorsports,2794,0,0
+5546,3973,BJ McLeod,Live Fast Motorsports,3080,0,0
+5546,3669,JJ Yeley,NY Racing Team,2987,0,0
+5546,4312,Chandler Smith,Power Source,2256,0,0
+5546,4184,William Byron,Hendrick Motorsports,1581,5,1
+5546,4065,Tyler Reddick,23XI Racing,3131,11,2
+5546,1717,Jimmie Johnson,Legacy Motor Club,3179,40,3
+5546,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,4
+5546,4092,John Hunter Nemechek,Legacy Motor Club,3130,18,5
+5546,4045,Alex Bowman,Hendrick Motorsports,1707,38,6
+5546,4023,Ryan Blaney,Team Penske,1460,16,7
+5546,4180,Austin Cindric,Team Penske,1547,2,8
+5546,34,Justin Allgaier,JR Motorsports,3251,19,9
+5546,3989,Chris Buescher,RFK Racing,1513,6,10
+5546,3832,Michael McDowell,Spire Motorsports,3213,25,11
+5546,4059,Erik Jones,Legacy Motor Club,1690,4,12
+5546,4113,Daniel Suarez,Trackhouse Racing,3081,36,13
+5546,4013,Ty Dillon,Kaulig Racing,3249,7,14
+5546,4062,Chase Elliott,Hendrick Motorsports,2952,17,15
+5546,4368,Ty Gibbs,Joe Gibbs Racing,3175,23,16
+5546,4269,Riley Herbst,23XI Racing,3250,24,17
+5546,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,31,18
+5546,4172,Justin Haley,Spire Motorsports,3077,35,19
+5546,4030,Kyle Larson,Hendrick Motorsports,1717,22,20
+5546,4104,Cole Custer,Haas Factory Team,2767,30,21
+5546,4096,Corey LaJoie,Rick Ware Racing,3272,12,22
+5546,3873,Austin Dillon,Richard Childress Racing,2765,15,23
+5546,1361,Denny Hamlin,Joe Gibbs Racing,1447,8,24
+5546,4125,Cody Ware,Rick Ware Racing,1430,28,25
+5546,1816,Brad Keselowski,RFK Racing,2803,34,26
+5546,4231,Todd Gilliland,Front Row Motorsports,1648,14,27
+5546,4224,Noah Gragson,Front Row Motorsports,3247,32,28
+5546,4025,Bubba Wallace,23XI Racing,3078,3,29
+5546,4326,Carson Hocevar,Spire Motorsports,3000,33,30
+5546,4153,Christopher Bell,Joe Gibbs Racing,1550,20,31
+5546,4070,Ryan Preece,RFK Racing,3212,27,32
+5546,4469,Shane Van Gisbergen,Trackhouse Racing,3255,26,33
+5546,454,Kyle Busch,Richard Childress Racing,2983,21,34
+5546,3859,Joey Logano,Team Penske,2593,10,35
+5546,4272,Zane Smith,Front Row Motorsports,2485,37,36
+5546,4123,Josh Berry,Wood Brothers Racing,1560,29,37
+5546,3368,Martin Truex Jr.,TRICON Garage,3253,39,38
+5546,4505,Helio Castroneves,Trackhouse Racing,3168,41,39
+5546,4001,Ross Chastain,Trackhouse Racing,3126,9,40
+5546,3774,AJ Allmendinger,Kaulig Racing,3049,13,41
+5547,4153,Christopher Bell,Joe Gibbs Racing,1550,32,1
+5547,4326,Carson Hocevar,Spire Motorsports,3000,26,2
+5547,4030,Kyle Larson,Hendrick Motorsports,1717,17,3
+5547,4023,Ryan Blaney,Team Penske,1460,1,4
+5547,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,5
+5547,1361,Denny Hamlin,Joe Gibbs Racing,1447,37,6
+5547,454,Kyle Busch,Richard Childress Racing,2983,6,7
+5547,4001,Ross Chastain,Trackhouse Racing,3126,33,8
+5547,4025,Bubba Wallace,23XI Racing,3078,14,9
+5547,4092,John Hunter Nemechek,Legacy Motor Club,3130,22,10
+5547,4272,Zane Smith,Front Row Motorsports,2485,7,11
+5547,3859,Joey Logano,Team Penske,2593,4,12
+5547,3832,Michael McDowell,Spire Motorsports,3213,24,13
+5547,3774,AJ Allmendinger,Kaulig Racing,3049,12,14
+5547,4231,Todd Gilliland,Front Row Motorsports,1648,5,15
+5547,3873,Austin Dillon,Richard Childress Racing,2765,15,16
+5547,4269,Riley Herbst,23XI Racing,3250,27,17
+5547,4070,Ryan Preece,RFK Racing,3212,11,18
+5547,4065,Tyler Reddick,23XI Racing,3131,18,19
+5547,4062,Chase Elliott,Hendrick Motorsports,2952,19,20
+5547,4228,Chase Briscoe,Joe Gibbs Racing,2810,25,21
+5547,3973,BJ McLeod,Live Fast Motorsports,3080,38,22
+5547,4469,Shane Van Gisbergen,Trackhouse Racing,3255,30,23
+5547,4172,Justin Haley,Spire Motorsports,3077,21,24
+5547,4123,Josh Berry,Wood Brothers Racing,1560,3,25
+5547,4045,Alex Bowman,Hendrick Motorsports,1707,13,26
+5547,4184,William Byron,Hendrick Motorsports,1581,16,27
+5547,4180,Austin Cindric,Team Penske,1547,2,28
+5547,4013,Ty Dillon,Kaulig Racing,3249,20,29
+5547,3989,Chris Buescher,RFK Racing,1513,8,30
+5547,4059,Erik Jones,Legacy Motor Club,1690,28,31
+5547,4368,Ty Gibbs,Joe Gibbs Racing,3175,36,32
+5547,4113,Daniel Suarez,Trackhouse Racing,3081,29,33
+5547,4224,Noah Gragson,Front Row Motorsports,3247,10,34
+5547,4125,Cody Ware,Rick Ware Racing,1430,31,35
+5547,4104,Cole Custer,Haas Factory Team,2767,23,36
+5547,3669,JJ Yeley,NY Racing Team,2987,39,37
+5547,4096,Corey LaJoie,Rick Ware Racing,3272,35,38
+5547,1816,Brad Keselowski,RFK Racing,2803,9,39
+5551,4153,Christopher Bell,Joe Gibbs Racing,1550,19,1
+5551,4184,William Byron,Hendrick Motorsports,1581,15,2
+5551,4065,Tyler Reddick,23XI Racing,3131,1,3
+5551,4062,Chase Elliott,Hendrick Motorsports,2952,3,4
+5551,454,Kyle Busch,Richard Childress Racing,2983,8,5
+5551,4469,Shane Van Gisbergen,Trackhouse Racing,3255,6,6
+5551,3989,Chris Buescher,RFK Racing,1513,24,7
+5551,4224,Noah Gragson,Front Row Motorsports,3247,17,8
+5551,4045,Alex Bowman,Hendrick Motorsports,1707,21,9
+5551,4231,Todd Gilliland,Front Row Motorsports,1648,10,10
+5551,3832,Michael McDowell,Spire Motorsports,3213,16,11
+5551,4001,Ross Chastain,Trackhouse Racing,3126,9,12
+5551,4326,Carson Hocevar,Spire Motorsports,3000,4,13
+5551,4228,Chase Briscoe,Joe Gibbs Racing,2810,18,14
+5551,1816,Brad Keselowski,RFK Racing,2803,26,15
+5551,4172,Justin Haley,Spire Motorsports,3077,29,16
+5551,4269,Riley Herbst,23XI Racing,3250,31,17
+5551,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,22,18
+5551,4023,Ryan Blaney,Team Penske,1460,25,19
+5551,4025,Bubba Wallace,23XI Racing,3078,2,20
+5551,1361,Denny Hamlin,Joe Gibbs Racing,1447,11,21
+5551,4092,John Hunter Nemechek,Legacy Motor Club,3130,33,22
+5551,4104,Cole Custer,Haas Factory Team,2767,30,23
+5551,3859,Joey Logano,Team Penske,2593,23,24
+5551,4180,Austin Cindric,Team Penske,1547,36,25
+5551,4123,Josh Berry,Wood Brothers Racing,1560,35,26
+5551,4059,Erik Jones,Legacy Motor Club,1690,32,27
+5551,4013,Ty Dillon,Kaulig Racing,3249,34,28
+5551,4272,Zane Smith,Front Row Motorsports,2485,20,29
+5551,3774,AJ Allmendinger,Kaulig Racing,3049,12,30
+5551,4125,Cody Ware,Rick Ware Racing,1430,37,31
+5551,4030,Kyle Larson,Hendrick Motorsports,1717,7,32
+5551,4070,Ryan Preece,RFK Racing,3212,28,33
+5551,4368,Ty Gibbs,Joe Gibbs Racing,3175,13,34
+5551,3873,Austin Dillon,Richard Childress Racing,2765,27,35
+5551,4113,Daniel Suarez,Trackhouse Racing,3081,5,36
+5551,4481,Connor Zilisch,Trackhouse Racing,3254,14,37
+5549,4153,Christopher Bell,Joe Gibbs Racing,1550,11,1
+5549,1361,Denny Hamlin,Joe Gibbs Racing,1447,10,2
+5549,4030,Kyle Larson,Hendrick Motorsports,1717,17,3
+5549,4123,Josh Berry,Wood Brothers Racing,1560,4,4
+5549,3989,Chris Buescher,RFK Racing,1513,13,5
+5549,4184,William Byron,Hendrick Motorsports,1581,1,6
+5549,4045,Alex Bowman,Hendrick Motorsports,1707,32,7
+5549,454,Kyle Busch,Richard Childress Racing,2983,15,8
+5549,4272,Zane Smith,Front Row Motorsports,2485,26,9
+5549,4062,Chase Elliott,Hendrick Motorsports,2952,6,10
+5549,4001,Ross Chastain,Trackhouse Racing,3126,24,11
+5549,3873,Austin Dillon,Richard Childress Racing,2765,21,12
+5549,3859,Joey Logano,Team Penske,2593,2,13
+5549,4092,John Hunter Nemechek,Legacy Motor Club,3130,36,14
+5549,4070,Ryan Preece,RFK Racing,3212,28,15
+5549,4013,Ty Dillon,Kaulig Racing,3249,25,16
+5549,4231,Todd Gilliland,Front Row Motorsports,1648,27,17
+5549,4059,Erik Jones,Legacy Motor Club,1690,5,18
+5549,4180,Austin Cindric,Team Penske,1547,14,19
+5549,4065,Tyler Reddick,23XI Racing,3131,9,20
+5549,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,22,21
+5549,3774,AJ Allmendinger,Kaulig Racing,3049,16,22
+5549,4113,Daniel Suarez,Trackhouse Racing,3081,31,23
+5549,4125,Cody Ware,Rick Ware Racing,1430,35,24
+5549,4368,Ty Gibbs,Joe Gibbs Racing,3175,34,25
+5549,4224,Noah Gragson,Front Row Motorsports,3247,33,26
+5549,3832,Michael McDowell,Spire Motorsports,3213,7,27
+5549,4023,Ryan Blaney,Team Penske,1460,12,28
+5549,4025,Bubba Wallace,23XI Racing,3078,19,29
+5549,4284,Katherine Legge,Live Fast Motorsports,3080,37,30
+5549,4469,Shane Van Gisbergen,Trackhouse Racing,3255,29,31
+5549,4104,Cole Custer,Haas Factory Team,2767,23,32
+5549,1816,Brad Keselowski,RFK Racing,2803,20,33
+5549,4172,Justin Haley,Spire Motorsports,3077,8,34
+5549,4228,Chase Briscoe,Joe Gibbs Racing,2810,30,35
+5549,4326,Carson Hocevar,Spire Motorsports,3000,3,36
+5549,4269,Riley Herbst,23XI Racing,3250,18,37
+5548,4123,Josh Berry,Wood Brothers Racing,1560,7,1
+5548,4113,Daniel Suarez,Trackhouse Racing,3081,23,2
+5548,4070,Ryan Preece,RFK Racing,3212,12,3
+5548,4184,William Byron,Hendrick Motorsports,1581,8,4
+5548,4001,Ross Chastain,Trackhouse Racing,3126,19,5
+5548,4180,Austin Cindric,Team Penske,1547,3,6
+5548,4045,Alex Bowman,Hendrick Motorsports,1707,6,7
+5548,3774,AJ Allmendinger,Kaulig Racing,3049,18,8
+5548,4030,Kyle Larson,Hendrick Motorsports,1717,10,9
+5548,4062,Chase Elliott,Hendrick Motorsports,2952,16,10
+5548,1816,Brad Keselowski,RFK Racing,2803,27,11
+5548,4153,Christopher Bell,Joe Gibbs Racing,1550,13,12
+5548,3989,Chris Buescher,RFK Racing,1513,11,13
+5548,4172,Justin Haley,Spire Motorsports,3077,33,14
+5548,3859,Joey Logano,Team Penske,2593,2,15
+5548,3832,Michael McDowell,Spire Motorsports,3213,1,16
+5548,4228,Chase Briscoe,Joe Gibbs Racing,2810,24,17
+5548,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,31,18
+5548,4269,Riley Herbst,23XI Racing,3250,34,19
+5548,4092,John Hunter Nemechek,Legacy Motor Club,3130,30,20
+5548,4013,Ty Dillon,Kaulig Racing,3249,17,21
+5548,4368,Ty Gibbs,Joe Gibbs Racing,3175,29,22
+5548,4272,Zane Smith,Front Row Motorsports,2485,9,23
+5548,4065,Tyler Reddick,23XI Racing,3131,14,24
+5548,1361,Denny Hamlin,Joe Gibbs Racing,1447,15,25
+5548,4104,Cole Custer,Haas Factory Team,2767,26,26
+5548,4059,Erik Jones,Legacy Motor Club,1690,5,27
+5548,4025,Bubba Wallace,23XI Racing,3078,20,28
+5548,4231,Todd Gilliland,Front Row Motorsports,1648,32,29
+5548,4326,Carson Hocevar,Spire Motorsports,3000,25,30
+5548,4224,Noah Gragson,Front Row Motorsports,3247,21,31
+5548,3873,Austin Dillon,Richard Childress Racing,2765,22,32
+5548,454,Kyle Busch,Richard Childress Racing,2983,4,33
+5548,4469,Shane Van Gisbergen,Trackhouse Racing,3255,28,34
+5548,4023,Ryan Blaney,Team Penske,1460,36,35
+5548,4125,Cody Ware,Rick Ware Racing,1430,35,36
+5583,4030,Kyle Larson,Hendrick Motorsports,1717,14,1
+5583,4045,Alex Bowman,Hendrick Motorsports,1707,1,2
+5583,4025,Bubba Wallace,23XI Racing,3078,9,3
+5583,4228,Chase Briscoe,Joe Gibbs Racing,2810,4,4
+5583,1361,Denny Hamlin,Joe Gibbs Racing,1447,23,5
+5583,3989,Chris Buescher,RFK Racing,1513,11,6
+5583,3774,AJ Allmendinger,Kaulig Racing,3049,10,7
+5583,4065,Tyler Reddick,23XI Racing,3131,20,8
+5583,4070,Ryan Preece,RFK Racing,3212,31,9
+5583,4172,Justin Haley,Spire Motorsports,3077,21,10
+5583,4272,Zane Smith,Front Row Motorsports,2485,17,11
+5583,4184,William Byron,Hendrick Motorsports,1581,5,12
+5583,3873,Austin Dillon,Richard Childress Racing,2765,30,13
+5583,3859,Joey Logano,Team Penske,2593,12,14
+5583,4059,Erik Jones,Legacy Motor Club,1690,28,15
+5583,4224,Noah Gragson,Front Row Motorsports,3247,3,16
+5583,4123,Josh Berry,Wood Brothers Racing,1560,2,17
+5583,4062,Chase Elliott,Hendrick Motorsports,2952,18,18
+5583,4180,Austin Cindric,Team Penske,1547,8,19
+5583,3832,Michael McDowell,Spire Motorsports,3213,26,20
+5583,454,Kyle Busch,Richard Childress Racing,2983,22,21
+5583,4113,Daniel Suarez,Trackhouse Racing,3081,33,22
+5583,4092,John Hunter Nemechek,Legacy Motor Club,3130,7,23
+5583,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,27,24
+5583,4368,Ty Gibbs,Joe Gibbs Racing,3175,13,25
+5583,1816,Brad Keselowski,RFK Racing,2803,32,26
+5583,4013,Ty Dillon,Kaulig Racing,3249,34,27
+5583,4104,Cole Custer,Haas Factory Team,2767,24,28
+5583,4153,Christopher Bell,Joe Gibbs Racing,1550,16,29
+5583,4231,Todd Gilliland,Front Row Motorsports,1648,29,30
+5583,4001,Ross Chastain,Trackhouse Racing,3126,25,31
+5583,4469,Shane Van Gisbergen,Trackhouse Racing,3255,35,32
+5583,4269,Riley Herbst,23XI Racing,3250,19,33
+5583,4125,Cody Ware,Rick Ware Racing,1430,36,34
+5583,3669,JJ Yeley,NY Racing Team,2987,37,35
+5583,4023,Ryan Blaney,Team Penske,1460,6,36
+5583,4326,Carson Hocevar,Spire Motorsports,3000,15,37
+5553,1361,Denny Hamlin,Joe Gibbs Racing,1447,5,1
+5553,4153,Christopher Bell,Joe Gibbs Racing,1550,1,2
+5553,4025,Bubba Wallace,23XI Racing,3078,8,3
+5553,4062,Chase Elliott,Hendrick Motorsports,2952,2,4
+5553,4030,Kyle Larson,Hendrick Motorsports,1717,4,5
+5553,4001,Ross Chastain,Trackhouse Racing,3126,17,6
+5553,4070,Ryan Preece,RFK Racing,3212,21,7
+5553,3859,Joey Logano,Team Penske,2593,7,8
+5553,4228,Chase Briscoe,Joe Gibbs Racing,2810,11,9
+5553,4231,Todd Gilliland,Front Row Motorsports,1648,25,10
+5553,4023,Ryan Blaney,Team Penske,1460,32,11
+5553,3832,Michael McDowell,Spire Motorsports,3213,15,12
+5553,4368,Ty Gibbs,Joe Gibbs Racing,3175,13,13
+5553,4065,Tyler Reddick,23XI Racing,3131,9,14
+5553,4013,Ty Dillon,Kaulig Racing,3249,28,15
+5553,4272,Zane Smith,Front Row Motorsports,2485,19,16
+5553,454,Kyle Busch,Richard Childress Racing,2983,12,17
+5553,3873,Austin Dillon,Richard Childress Racing,2765,18,18
+5553,4326,Carson Hocevar,Spire Motorsports,3000,29,19
+5553,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,20
+5553,4113,Daniel Suarez,Trackhouse Racing,3081,26,21
+5553,4184,William Byron,Hendrick Motorsports,1581,10,22
+5553,3774,AJ Allmendinger,Kaulig Racing,3049,23,23
+5553,3989,Chris Buescher,RFK Racing,1513,6,24
+5553,4092,John Hunter Nemechek,Legacy Motor Club,3130,16,25
+5553,1816,Brad Keselowski,RFK Racing,2803,27,26
+5553,4045,Alex Bowman,Hendrick Motorsports,1707,3,27
+5553,4172,Justin Haley,Spire Motorsports,3077,30,28
+5553,4224,Noah Gragson,Front Row Motorsports,3247,24,29
+5553,4125,Cody Ware,Rick Ware Racing,1430,36,30
+5553,4269,Riley Herbst,23XI Racing,3250,35,31
+5553,4123,Josh Berry,Wood Brothers Racing,1560,14,32
+5553,4104,Cole Custer,Haas Factory Team,2767,22,33
+5553,4469,Shane Van Gisbergen,Trackhouse Racing,3255,33,34
+5553,2215,Casey Mears,Garage 66,2256,37,35
+5553,3918,Burt Myers,Team AmeriVet,3051,38,36
+5553,4180,Austin Cindric,Team Penske,1547,20,37
+5553,4059,Erik Jones,Legacy Motor Club,1690,31,38
+5558,1361,Denny Hamlin,Joe Gibbs Racing,1447,3,1
+5558,4184,William Byron,Hendrick Motorsports,1581,1,2
+5558,4153,Christopher Bell,Joe Gibbs Racing,1550,17,3
+5558,4065,Tyler Reddick,23XI Racing,3131,7,4
+5558,4023,Ryan Blaney,Team Penske,1460,9,5
+5558,3989,Chris Buescher,RFK Racing,1513,14,6
+5558,4001,Ross Chastain,Trackhouse Racing,3126,25,7
+5558,4062,Chase Elliott,Hendrick Motorsports,2952,15,8
+5558,4368,Ty Gibbs,Joe Gibbs Racing,3175,11,9
+5558,454,Kyle Busch,Richard Childress Racing,2983,8,10
+5558,4180,Austin Cindric,Team Penske,1547,6,11
+5558,4272,Zane Smith,Front Row Motorsports,2485,16,12
+5558,3859,Joey Logano,Team Penske,2593,18,13
+5558,4231,Todd Gilliland,Front Row Motorsports,1648,12,14
+5558,4113,Daniel Suarez,Trackhouse Racing,3081,30,15
+5558,4013,Ty Dillon,Kaulig Racing,3249,29,16
+5558,4059,Erik Jones,Legacy Motor Club,1690,34,17
+5558,3774,AJ Allmendinger,Kaulig Racing,3049,22,18
+5558,4224,Noah Gragson,Front Row Motorsports,3247,26,19
+5558,4469,Shane Van Gisbergen,Trackhouse Racing,3255,36,20
+5558,4025,Bubba Wallace,23XI Racing,3078,5,21
+5558,4104,Cole Custer,Haas Factory Team,2767,31,22
+5558,3873,Austin Dillon,Richard Childress Racing,2765,23,23
+5558,4172,Justin Haley,Spire Motorsports,3077,21,24
+5558,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,28,25
+5558,4070,Ryan Preece,RFK Racing,3212,2,26
+5558,4125,Cody Ware,Rick Ware Racing,1430,35,27
+5558,4228,Chase Briscoe,Joe Gibbs Racing,2810,4,28
+5558,3832,Michael McDowell,Spire Motorsports,3213,10,29
+5558,4092,John Hunter Nemechek,Legacy Motor Club,3130,27,30
+5558,4133,Austin Hill,Richard Childress Racing,1643,37,31
+5558,4326,Carson Hocevar,Spire Motorsports,3000,13,32
+5558,1816,Brad Keselowski,RFK Racing,2803,20,33
+5558,4269,Riley Herbst,23XI Racing,3250,32,34
+5558,4045,Alex Bowman,Hendrick Motorsports,1707,33,35
+5558,4123,Josh Berry,Wood Brothers Racing,1560,24,36
+5558,4030,Kyle Larson,Hendrick Motorsports,1717,19,37
+5558,3669,JJ Yeley,NY Racing Team,2987,38,38
+5550,4030,Kyle Larson,Hendrick Motorsports,1717,3,1
+5550,1361,Denny Hamlin,Joe Gibbs Racing,1447,4,2
+5550,4368,Ty Gibbs,Joe Gibbs Racing,3175,6,3
+5550,4228,Chase Briscoe,Joe Gibbs Racing,2810,14,4
+5550,4023,Ryan Blaney,Team Penske,1460,5,5
+5550,4184,William Byron,Hendrick Motorsports,1581,26,6
+5550,4001,Ross Chastain,Trackhouse Racing,3126,35,7
+5550,4153,Christopher Bell,Joe Gibbs Racing,1550,7,8
+5550,3774,AJ Allmendinger,Kaulig Racing,3049,8,9
+5550,3873,Austin Dillon,Richard Childress Racing,2765,17,10
+5550,4326,Carson Hocevar,Spire Motorsports,3000,9,11
+5550,4123,Josh Berry,Wood Brothers Racing,1560,11,12
+5550,4172,Justin Haley,Spire Motorsports,3077,10,13
+5550,454,Kyle Busch,Richard Childress Racing,2983,15,14
+5550,4062,Chase Elliott,Hendrick Motorsports,2952,20,15
+5550,1816,Brad Keselowski,RFK Racing,2803,16,16
+5550,4180,Austin Cindric,Team Penske,1547,21,17
+5550,4065,Tyler Reddick,23XI Racing,3131,27,18
+5550,4025,Bubba Wallace,23XI Racing,3078,22,19
+5550,4070,Ryan Preece,RFK Racing,3212,29,20
+5550,4092,John Hunter Nemechek,Legacy Motor Club,3130,32,21
+5550,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,2,22
+5550,4224,Noah Gragson,Front Row Motorsports,3247,31,23
+5550,3859,Joey Logano,Team Penske,2593,38,24
+5550,3989,Chris Buescher,RFK Racing,1513,24,25
+5550,4059,Erik Jones,Legacy Motor Club,1690,28,26
+5550,4272,Zane Smith,Front Row Motorsports,2485,18,27
+5550,4269,Riley Herbst,23XI Racing,3250,25,28
+5550,4104,Cole Custer,Haas Factory Team,2767,33,29
+5550,3832,Michael McDowell,Spire Motorsports,3213,13,30
+5550,4463,Jesse Love,Richard Childress Racing,1643,19,31
+5550,4013,Ty Dillon,Kaulig Racing,3249,12,32
+5550,4113,Daniel Suarez,Trackhouse Racing,3081,23,33
+5550,4096,Corey LaJoie,Rick Ware Racing,3272,37,34
+5550,4231,Todd Gilliland,Front Row Motorsports,1648,30,35
+5550,4125,Cody Ware,Rick Ware Racing,1430,34,36
+5550,4045,Alex Bowman,Hendrick Motorsports,1707,1,37
+5550,4469,Shane Van Gisbergen,Trackhouse Racing,3255,36,38
+5550,4213,Josh Bilicki,Garage 66,2256,39,39
+5555,4180,Austin Cindric,Team Penske,1547,7,1
+5555,4030,Kyle Larson,Hendrick Motorsports,1717,25,2
+5555,4184,William Byron,Hendrick Motorsports,1581,16,3
+5555,4224,Noah Gragson,Front Row Motorsports,3247,27,4
+5555,4062,Chase Elliott,Hendrick Motorsports,2952,30,5
+5555,4326,Carson Hocevar,Spire Motorsports,3000,28,6
+5555,4045,Alex Bowman,Hendrick Motorsports,1707,18,7
+5555,4025,Bubba Wallace,23XI Racing,3078,20,8
+5555,4113,Daniel Suarez,Trackhouse Racing,3081,24,9
+5555,3873,Austin Dillon,Richard Childress Racing,2765,5,10
+5555,3832,Michael McDowell,Spire Motorsports,3213,14,11
+5555,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,35,12
+5555,4104,Cole Custer,Haas Factory Team,2767,12,13
+5555,4065,Tyler Reddick,23XI Racing,3131,26,14
+5555,4228,Chase Briscoe,Joe Gibbs Racing,2810,17,15
+5555,4231,Todd Gilliland,Front Row Motorsports,1648,15,16
+5555,4368,Ty Gibbs,Joe Gibbs Racing,3175,10,17
+5555,4059,Erik Jones,Legacy Motor Club,1690,34,18
+5555,4272,Zane Smith,Front Row Motorsports,2485,1,19
+5555,4001,Ross Chastain,Trackhouse Racing,3126,32,20
+5555,1361,Denny Hamlin,Joe Gibbs Racing,1447,13,21
+5555,4269,Riley Herbst,23XI Racing,3250,23,22
+5555,4013,Ty Dillon,Kaulig Racing,3249,21,23
+5555,3774,AJ Allmendinger,Kaulig Racing,3049,19,24
+5555,4172,Justin Haley,Spire Motorsports,3077,37,25
+5555,4123,Josh Berry,Wood Brothers Racing,1560,8,26
+5555,454,Kyle Busch,Richard Childress Racing,2983,2,27
+5555,4301,Anthony Alfredo,Beard Motorsports,2794,31,28
+5555,4469,Shane Van Gisbergen,Trackhouse Racing,3255,36,29
+5555,4092,John Hunter Nemechek,Legacy Motor Club,3130,29,30
+5555,4125,Cody Ware,Rick Ware Racing,1430,33,31
+5555,3669,JJ Yeley,NY Racing Team,2987,39,32
+5555,3973,BJ McLeod,Live Fast Motorsports,3080,38,33
+5555,3989,Chris Buescher,RFK Racing,1513,6,34
+5555,4153,Christopher Bell,Joe Gibbs Racing,1550,11,35
+5555,1816,Brad Keselowski,RFK Racing,2803,22,36
+5555,4023,Ryan Blaney,Team Penske,1460,9,37
+5555,4070,Ryan Preece,RFK Racing,3212,4,38
+5555,3859,Joey Logano,Team Penske,2593,3,39
+5554,3859,Joey Logano,Team Penske,2593,27,1
+5554,4001,Ross Chastain,Trackhouse Racing,3126,31,2
+5554,4023,Ryan Blaney,Team Penske,1460,24,3
+5554,4030,Kyle Larson,Hendrick Motorsports,1717,4,4
+5554,4059,Erik Jones,Legacy Motor Club,1690,14,5
+5554,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,6
+5554,3873,Austin Dillon,Richard Childress Racing,2765,19,7
+5554,4092,John Hunter Nemechek,Legacy Motor Club,3130,28,8
+5554,4153,Christopher Bell,Joe Gibbs Racing,1550,16,9
+5554,4113,Daniel Suarez,Trackhouse Racing,3081,25,10
+5554,4231,Todd Gilliland,Front Row Motorsports,1648,32,11
+5554,4013,Ty Dillon,Kaulig Racing,3249,23,12
+5554,4184,William Byron,Hendrick Motorsports,1581,2,13
+5554,4269,Riley Herbst,23XI Racing,3250,21,14
+5554,4172,Justin Haley,Spire Motorsports,3077,15,15
+5554,4062,Chase Elliott,Hendrick Motorsports,2952,29,16
+5554,4272,Zane Smith,Front Row Motorsports,2485,13,17
+5554,3989,Chris Buescher,RFK Racing,1513,12,18
+5554,4104,Cole Custer,Haas Factory Team,2767,20,19
+5554,454,Kyle Busch,Richard Childress Racing,2983,26,20
+5554,4065,Tyler Reddick,23XI Racing,3131,17,21
+5554,4469,Shane Van Gisbergen,Trackhouse Racing,3255,37,22
+5554,4368,Ty Gibbs,Joe Gibbs Racing,3175,6,23
+5554,4326,Carson Hocevar,Spire Motorsports,3000,1,24
+5554,4180,Austin Cindric,Team Penske,1547,3,25
+5554,3832,Michael McDowell,Spire Motorsports,3213,5,26
+5554,4228,Chase Briscoe,Joe Gibbs Racing,2810,22,27
+5554,1816,Brad Keselowski,RFK Racing,2803,30,28
+5554,4070,Ryan Preece,RFK Racing,3212,33,29
+5554,4125,Cody Ware,Rick Ware Racing,1430,36,30
+5554,4463,Jesse Love,Beard Motorsports,2794,35,31
+5554,4123,Josh Berry,Wood Brothers Racing,1560,7,32
+5554,4025,Bubba Wallace,23XI Racing,3078,9,33
+5554,4224,Noah Gragson,Front Row Motorsports,3247,18,34
+5554,4045,Alex Bowman,Hendrick Motorsports,1707,11,35
+5554,3774,AJ Allmendinger,Kaulig Racing,3049,10,36
+5554,4232,Chad Finchum,Garage 66,2256,38,37
+5554,1361,Denny Hamlin,Joe Gibbs Racing,1447,8,38
+5557,4030,Kyle Larson,Hendrick Motorsports,1717,1,1
+5557,4153,Christopher Bell,Joe Gibbs Racing,1550,3,2
+5557,4023,Ryan Blaney,Team Penske,1460,10,3
+5557,4228,Chase Briscoe,Joe Gibbs Racing,2810,19,4
+5557,4045,Alex Bowman,Hendrick Motorsports,1707,21,5
+5557,4123,Josh Berry,Wood Brothers Racing,1560,38,6
+5557,4070,Ryan Preece,RFK Racing,3212,30,7
+5557,3989,Chris Buescher,RFK Racing,1513,2,8
+5557,3859,Joey Logano,Team Penske,2593,5,9
+5557,4092,John Hunter Nemechek,Legacy Motor Club,3130,17,10
+5557,4180,Austin Cindric,Team Penske,1547,13,11
+5557,4231,Todd Gilliland,Front Row Motorsports,1648,23,12
+5557,4387,Corey Heim,23XI Racing,3178,28,13
+5557,4224,Noah Gragson,Front Row Motorsports,3247,24,14
+5557,4062,Chase Elliott,Hendrick Motorsports,2952,9,15
+5557,4272,Zane Smith,Front Row Motorsports,2485,18,16
+5557,4065,Tyler Reddick,23XI Racing,3131,4,17
+5557,4001,Ross Chastain,Trackhouse Racing,3126,26,18
+5557,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,27,19
+5557,4469,Shane Van Gisbergen,Trackhouse Racing,3255,34,20
+5557,454,Kyle Busch,Richard Childress Racing,2983,35,21
+5557,3873,Austin Dillon,Richard Childress Racing,2765,20,22
+5557,3832,Michael McDowell,Spire Motorsports,3213,11,23
+5557,4184,William Byron,Hendrick Motorsports,1581,7,24
+5557,4104,Cole Custer,Haas Factory Team,2767,31,25
+5557,4326,Carson Hocevar,Spire Motorsports,3000,22,26
+5557,4269,Riley Herbst,23XI Racing,3250,25,27
+5557,4368,Ty Gibbs,Joe Gibbs Racing,3175,6,28
+5557,4463,Jesse Love,Richard Childress Racing,1643,32,29
+5557,4125,Cody Ware,Rick Ware Racing,1430,37,30
+5557,4172,Justin Haley,Spire Motorsports,3077,12,31
+5557,4059,Erik Jones,Legacy Motor Club,1690,16,32
+5557,4025,Bubba Wallace,23XI Racing,3078,15,33
+5557,4113,Daniel Suarez,Trackhouse Racing,3081,8,34
+5557,4013,Ty Dillon,Kaulig Racing,3249,29,35
+5557,1361,Denny Hamlin,Joe Gibbs Racing,1447,14,36
+5557,1816,Brad Keselowski,RFK Racing,2803,36,37
+5557,3774,AJ Allmendinger,Kaulig Racing,3049,33,38
+5561,4326,Carson Hocevar,Spire Motorsports,3000,2,1
+5561,4092,John Hunter Nemechek,Legacy Motor Club,3130,8,2
+5561,4013,Ty Dillon,Kaulig Racing,3249,10,3
+5561,4059,Erik Jones,Legacy Motor Club,1690,12,4
+5561,3832,Michael McDowell,Spire Motorsports,3213,4,5
+5561,4272,Zane Smith,Front Row Motorsports,2485,6,6
+5561,3774,AJ Allmendinger,Kaulig Racing,3049,16,7
+5561,4025,Bubba Wallace,23XI Racing,3078,14,8
+5561,4104,Cole Custer,Haas Factory Team,2767,11,9
+5561,4269,Riley Herbst,23XI Racing,3250,13,10
+5561,4070,Ryan Preece,RFK Racing,3212,5,11
+5561,4231,Todd Gilliland,Front Row Motorsports,1648,17,12
+5561,4469,Shane Van Gisbergen,Trackhouse Racing,3255,1,13
+5561,4172,Justin Haley,Spire Motorsports,3077,7,14
+5561,4368,Ty Gibbs,Joe Gibbs Racing,3175,9,15
+5561,4125,Cody Ware,Rick Ware Racing,3106,15,16
+5561,4224,Noah Gragson,Front Row Motorsports,3247,3,17
+5561,4232,Chad Finchum,Garage 66,2256,18,18
+5562,4153,Christopher Bell,Joe Gibbs Racing,1550,2,1
+5562,3859,Joey Logano,Team Penske,2593,4,2
+5562,4001,Ross Chastain,Trackhouse Racing,3126,3,3
+5562,4045,Alex Bowman,Hendrick Motorsports,1707,9,4
+5562,4062,Chase Elliott,Hendrick Motorsports,2952,6,5
+5562,4184,William Byron,Hendrick Motorsports,1581,5,6
+5562,4065,Tyler Reddick,23XI Racing,3131,13,7
+5562,454,Kyle Busch,Richard Childress Racing,2983,8,8
+5562,4228,Chase Briscoe,Joe Gibbs Racing,2810,14,9
+5562,3989,Chris Buescher,RFK Racing,1513,10,10
+5562,4326,Carson Hocevar,Spire Motorsports,3000,21,11
+5562,1361,Denny Hamlin,Joe Gibbs Racing,1447,20,12
+5562,4224,Noah Gragson,Front Row Motorsports,3247,23,13
+5562,3873,Austin Dillon,Richard Childress Racing,2765,15,14
+5562,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,17,15
+5562,4023,Ryan Blaney,Team Penske,1460,7,16
+5562,4123,Josh Berry,Wood Brothers Racing,1560,11,17
+5562,4180,Austin Cindric,Team Penske,1547,16,18
+5562,4092,John Hunter Nemechek,Legacy Motor Club,3130,22,19
+5562,4217,Harrison Burton,Rick Ware Racing,1430,18,20
+5562,4030,Kyle Larson,Hendrick Motorsports,1717,19,21
+5562,1816,Brad Keselowski,RFK Racing,2803,1,22
+5562,4113,Daniel Suarez,Trackhouse Racing,3081,12,23
+5563,4001,Ross Chastain,Trackhouse Racing,3126,40,1
+5563,4184,William Byron,Hendrick Motorsports,1581,3,2
+5563,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,3
+5563,3774,AJ Allmendinger,Kaulig Racing,3049,5,4
+5563,1816,Brad Keselowski,RFK Racing,2803,35,5
+5563,4062,Chase Elliott,Hendrick Motorsports,2952,22,6
+5563,3832,Michael McDowell,Spire Motorsports,3213,15,7
+5563,4153,Christopher Bell,Joe Gibbs Racing,1550,10,8
+5563,4070,Ryan Preece,RFK Racing,3212,28,9
+5563,4224,Noah Gragson,Front Row Motorsports,3247,8,10
+5563,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,11,11
+5563,4123,Josh Berry,Wood Brothers Racing,1560,18,12
+5563,4059,Erik Jones,Legacy Motor Club,1690,27,13
+5563,4469,Shane Van Gisbergen,Trackhouse Racing,3255,30,14
+5563,454,Kyle Busch,Richard Childress Racing,2983,24,15
+5563,1361,Denny Hamlin,Joe Gibbs Racing,1447,20,16
+5563,3859,Joey Logano,Team Penske,2593,16,17
+5563,4231,Todd Gilliland,Front Row Motorsports,1648,34,18
+5563,4013,Ty Dillon,Kaulig Racing,3249,19,19
+5563,3873,Austin Dillon,Richard Childress Racing,2765,26,20
+5563,4104,Cole Custer,Haas Factory Team,2767,29,21
+5563,3989,Chris Buescher,RFK Racing,1513,4,22
+5563,4481,Connor Zilisch,Trackhouse Racing,3254,33,23
+5563,4368,Ty Gibbs,Joe Gibbs Racing,3175,7,24
+5563,4125,Cody Ware,Rick Ware Racing,1430,36,25
+5563,4065,Tyler Reddick,23XI Racing,3131,12,26
+5563,4092,John Hunter Nemechek,Legacy Motor Club,3130,6,27
+5563,4269,Riley Herbst,23XI Racing,3250,31,28
+5563,4045,Alex Bowman,Hendrick Motorsports,1707,9,29
+5563,4172,Justin Haley,Spire Motorsports,3077,13,30
+5563,4180,Austin Cindric,Team Penske,1547,14,31
+5563,4297,Derek Kraus,NY Racing Team,2987,37,32
+5563,4213,Josh Bilicki,Garage 66,2256,38,33
+5563,4326,Carson Hocevar,Spire Motorsports,3000,39,34
+5563,4025,Bubba Wallace,23XI Racing,3078,32,35
+5563,4113,Daniel Suarez,Trackhouse Racing,3081,25,36
+5563,4030,Kyle Larson,Hendrick Motorsports,1717,2,37
+5563,4023,Ryan Blaney,Team Penske,1460,21,38
+5563,4272,Zane Smith,Front Row Motorsports,2485,23,39
+5563,1717,Jimmie Johnson,Legacy Motor Club,3179,17,40
+5568,4023,Ryan Blaney,Team Penske,1460,15,1
+5568,4326,Carson Hocevar,Spire Motorsports,3000,26,2
+5568,1361,Denny Hamlin,Joe Gibbs Racing,1447,2,3
+5568,3859,Joey Logano,Team Penske,2593,9,4
+5568,4184,William Byron,Hendrick Motorsports,1581,3,5
+5568,4025,Bubba Wallace,23XI Racing,3078,12,6
+5568,4059,Erik Jones,Legacy Motor Club,1690,14,7
+5568,4030,Kyle Larson,Hendrick Motorsports,1717,28,8
+5568,4065,Tyler Reddick,23XI Racing,3131,4,9
+5568,4153,Christopher Bell,Joe Gibbs Racing,1550,7,10
+5568,4001,Ross Chastain,Trackhouse Racing,3126,5,11
+5568,454,Kyle Busch,Richard Childress Racing,2983,25,12
+5568,4272,Zane Smith,Front Row Motorsports,2485,27,13
+5568,3989,Chris Buescher,RFK Racing,1513,10,14
+5568,4062,Chase Elliott,Hendrick Motorsports,2952,11,15
+5568,4113,Daniel Suarez,Trackhouse Racing,3081,32,16
+5568,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,17
+5568,4180,Austin Cindric,Team Penske,1547,16,18
+5568,4104,Cole Custer,Haas Factory Team,2767,29,19
+5568,3774,AJ Allmendinger,Kaulig Racing,3049,17,20
+5568,3832,Michael McDowell,Spire Motorsports,3213,8,21
+5568,4231,Todd Gilliland,Front Row Motorsports,1648,35,22
+5568,1816,Brad Keselowski,RFK Racing,2803,6,23
+5568,4269,Riley Herbst,23XI Racing,3250,37,24
+5568,4469,Shane Van Gisbergen,Trackhouse Racing,3255,23,25
+5568,4013,Ty Dillon,Kaulig Racing,3249,31,26
+5568,4092,John Hunter Nemechek,Legacy Motor Club,3130,36,27
+5568,4070,Ryan Preece,RFK Racing,3212,19,28
+5568,3873,Austin Dillon,Richard Childress Racing,2765,21,29
+5568,4123,Josh Berry,Wood Brothers Racing,1560,20,30
+5568,4368,Ty Gibbs,Joe Gibbs Racing,3175,22,31
+5568,4172,Justin Haley,Spire Motorsports,3077,18,32
+5568,4125,Cody Ware,Rick Ware Racing,1430,34,33
+5568,3669,JJ Yeley,NY Racing Team,2987,38,34
+5568,4232,Chad Finchum,Garage 66,2256,39,35
+5568,4045,Alex Bowman,Hendrick Motorsports,1707,24,36
+5568,4387,Corey Heim,23XI Racing,3178,33,37
+5568,4224,Noah Gragson,Front Row Motorsports,3247,30,38
+5568,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,13,39
+5573,1361,Denny Hamlin,Joe Gibbs Racing,1447,3,1
+5573,3989,Chris Buescher,RFK Racing,1513,6,2
+5573,4368,Ty Gibbs,Joe Gibbs Racing,3175,8,3
+5573,4025,Bubba Wallace,23XI Racing,3078,9,4
+5573,4030,Kyle Larson,Hendrick Motorsports,1717,5,5
+5573,4001,Ross Chastain,Trackhouse Racing,3126,20,6
+5573,4272,Zane Smith,Front Row Motorsports,2485,10,7
+5573,454,Kyle Busch,Richard Childress Racing,2983,2,8
+5573,4070,Ryan Preece,RFK Racing,3212,23,9
+5573,1816,Brad Keselowski,RFK Racing,2803,27,10
+5573,4059,Erik Jones,Legacy Motor Club,1690,22,11
+5573,4123,Josh Berry,Wood Brothers Racing,1560,7,12
+5573,4065,Tyler Reddick,23XI Racing,3131,12,13
+5573,4113,Daniel Suarez,Trackhouse Racing,3081,35,14
+5573,4062,Chase Elliott,Hendrick Motorsports,2952,17,15
+5573,4153,Christopher Bell,Joe Gibbs Racing,1550,25,16
+5573,3774,AJ Allmendinger,Kaulig Racing,3049,19,17
+5573,4469,Shane Van Gisbergen,Trackhouse Racing,3255,26,18
+5573,3873,Austin Dillon,Richard Childress Racing,2765,28,19
+5573,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,30,20
+5573,4172,Justin Haley,Spire Motorsports,3077,31,21
+5573,3859,Joey Logano,Team Penske,2593,15,22
+5573,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,23
+5573,4013,Ty Dillon,Kaulig Racing,3249,18,24
+5573,4269,Riley Herbst,23XI Racing,3250,34,25
+5573,4125,Cody Ware,Rick Ware Racing,1430,36,26
+5573,4224,Noah Gragson,Front Row Motorsports,3247,29,27
+5573,4184,William Byron,Hendrick Motorsports,1581,4,28
+5573,4326,Carson Hocevar,Spire Motorsports,3000,14,29
+5573,3832,Michael McDowell,Spire Motorsports,3213,32,30
+5573,4180,Austin Cindric,Team Penske,1547,11,31
+5573,4023,Ryan Blaney,Team Penske,1460,13,32
+5573,4231,Todd Gilliland,Front Row Motorsports,1648,33,33
+5573,4092,John Hunter Nemechek,Legacy Motor Club,3130,21,34
+5573,4104,Cole Custer,Haas Factory Team,2767,24,35
+5573,4045,Alex Bowman,Hendrick Motorsports,1707,16,36
+5552,4469,Shane Van Gisbergen,Trackhouse Racing,3255,1,1
+5552,4153,Christopher Bell,Joe Gibbs Racing,1550,31,2
+5552,4062,Chase Elliott,Hendrick Motorsports,2952,12,3
+5552,4045,Alex Bowman,Hendrick Motorsports,1707,29,4
+5552,3832,Michael McDowell,Spire Motorsports,3213,5,5
+5552,4092,John Hunter Nemechek,Legacy Motor Club,3130,32,6
+5552,4228,Chase Briscoe,Joe Gibbs Racing,2810,19,7
+5552,4104,Cole Custer,Haas Factory Team,2767,26,8
+5552,4184,William Byron,Hendrick Motorsports,1581,27,9
+5552,3989,Chris Buescher,RFK Racing,1513,16,10
+5552,4368,Ty Gibbs,Joe Gibbs Racing,3175,4,11
+5552,4025,Bubba Wallace,23XI Racing,3078,25,12
+5552,3774,AJ Allmendinger,Kaulig Racing,3049,8,13
+5552,4023,Ryan Blaney,Team Penske,1460,18,14
+5552,4070,Ryan Preece,RFK Racing,3212,2,15
+5552,4001,Ross Chastain,Trackhouse Racing,3126,3,16
+5552,4059,Erik Jones,Legacy Motor Club,1690,14,17
+5552,4180,Austin Cindric,Team Penske,1547,20,18
+5552,4113,Daniel Suarez,Trackhouse Racing,3081,10,19
+5552,4065,Tyler Reddick,23XI Racing,3131,22,20
+5552,3859,Joey Logano,Team Penske,2593,9,21
+5552,4231,Todd Gilliland,Front Row Motorsports,1648,7,22
+5552,3952,Ryan Truex,Joe Gibbs Racing,1447,36,23
+5552,4172,Justin Haley,Spire Motorsports,3077,17,24
+5552,1816,Brad Keselowski,RFK Racing,2803,30,25
+5552,4123,Josh Berry,Wood Brothers Racing,1560,13,26
+5552,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,33,27
+5552,3873,Austin Dillon,Richard Childress Racing,2765,21,28
+5552,4269,Riley Herbst,23XI Racing,3250,15,29
+5552,4224,Noah Gragson,Front Row Motorsports,3247,35,30
+5552,4125,Cody Ware,Rick Ware Racing,1430,34,31
+5552,4284,Katherine Legge,Live Fast Motorsports,3080,37,32
+5552,4013,Ty Dillon,Kaulig Racing,3249,28,33
+5552,4326,Carson Hocevar,Spire Motorsports,3000,23,34
+5552,4272,Zane Smith,Front Row Motorsports,2485,24,35
+5552,4030,Kyle Larson,Hendrick Motorsports,1717,6,36
+5552,454,Kyle Busch,Richard Childress Racing,2983,11,37
+5570,4228,Chase Briscoe,Joe Gibbs Racing,2810,6,1
+5570,1361,Denny Hamlin,Joe Gibbs Racing,1447,1,2
+5570,4023,Ryan Blaney,Team Penske,1460,20,3
+5570,3989,Chris Buescher,RFK Racing,1513,2,4
+5570,4062,Chase Elliott,Hendrick Motorsports,2952,18,5
+5570,4092,John Hunter Nemechek,Legacy Motor Club,3130,4,6
+5570,4030,Kyle Larson,Hendrick Motorsports,1717,24,7
+5570,4070,Ryan Preece,RFK Racing,3212,13,8
+5570,1816,Brad Keselowski,RFK Racing,2803,14,9
+5570,4180,Austin Cindric,Team Penske,1547,19,10
+5570,4045,Alex Bowman,Hendrick Motorsports,1707,25,11
+5570,4123,Josh Berry,Wood Brothers Racing,1560,35,12
+5570,4059,Erik Jones,Legacy Motor Club,1690,11,13
+5570,4368,Ty Gibbs,Joe Gibbs Racing,3175,7,14
+5570,4113,Daniel Suarez,Trackhouse Racing,3081,10,15
+5570,3859,Joey Logano,Team Penske,2593,12,16
+5570,4153,Christopher Bell,Joe Gibbs Racing,1550,9,17
+5570,4326,Carson Hocevar,Spire Motorsports,3000,3,18
+5570,4172,Justin Haley,Spire Motorsports,3077,22,19
+5570,454,Kyle Busch,Richard Childress Racing,2983,26,20
+5570,3774,AJ Allmendinger,Kaulig Racing,3049,33,21
+5570,4104,Cole Custer,Haas Factory Team,2767,5,22
+5570,4224,Noah Gragson,Front Row Motorsports,3247,17,23
+5570,3873,Austin Dillon,Richard Childress Racing,2765,16,24
+5570,4272,Zane Smith,Front Row Motorsports,2485,15,25
+5570,4001,Ross Chastain,Trackhouse Racing,3126,21,26
+5570,4184,William Byron,Hendrick Motorsports,1581,31,27
+5570,4231,Todd Gilliland,Front Row Motorsports,1648,32,28
+5570,4125,Cody Ware,Rick Ware Racing,1430,36,29
+5570,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,30,30
+5570,4469,Shane Van Gisbergen,Trackhouse Racing,3255,23,31
+5570,4065,Tyler Reddick,23XI Racing,3131,8,32
+5570,4013,Ty Dillon,Kaulig Racing,3249,27,33
+5570,4144,Brennan Poole,NY Racing Team,2987,37,34
+5570,3832,Michael McDowell,Spire Motorsports,3213,28,35
+5570,4025,Bubba Wallace,23XI Racing,3078,34,36
+5570,4269,Riley Herbst,23XI Racing,3250,29,37
+5576,4062,Chase Elliott,Hendrick Motorsports,2952,15,1
+5576,1816,Brad Keselowski,RFK Racing,2803,6,2
+5576,4045,Alex Bowman,Hendrick Motorsports,1707,9,3
+5576,4065,Tyler Reddick,23XI Racing,3131,23,4
+5576,4059,Erik Jones,Legacy Motor Club,1690,26,5
+5576,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,37,6
+5576,4272,Zane Smith,Front Row Motorsports,2485,8,7
+5576,4013,Ty Dillon,Kaulig Racing,3249,14,8
+5576,3989,Chris Buescher,RFK Racing,1513,13,9
+5576,4326,Carson Hocevar,Spire Motorsports,3000,30,10
+5576,4481,Connor Zilisch,Trackhouse Racing,3254,36,11
+5576,3774,AJ Allmendinger,Kaulig Racing,3049,21,12
+5576,4125,Cody Ware,Rick Ware Racing,1430,39,13
+5576,4368,Ty Gibbs,Joe Gibbs Racing,3175,16,14
+5576,4070,Ryan Preece,RFK Racing,3212,5,15
+5576,3973,BJ McLeod,Live Fast Motorsports,3080,38,16
+5576,4030,Kyle Larson,Hendrick Motorsports,1717,11,17
+5576,3832,Michael McDowell,Spire Motorsports,3213,32,18
+5576,4104,Cole Custer,Haas Factory Team,2767,7,19
+5576,3873,Austin Dillon,Richard Childress Racing,2765,12,20
+5576,454,Kyle Busch,Richard Childress Racing,2983,29,21
+5576,4025,Bubba Wallace,23XI Racing,3078,24,22
+5576,4172,Justin Haley,Spire Motorsports,3077,22,23
+5576,4469,Shane Van Gisbergen,Trackhouse Racing,3255,35,24
+5576,4224,Noah Gragson,Front Row Motorsports,3247,27,25
+5576,4092,John Hunter Nemechek,Legacy Motor Club,3130,19,26
+5576,4231,Todd Gilliland,Front Row Motorsports,1648,17,27
+5576,4269,Riley Herbst,23XI Racing,3250,20,28
+5576,3170,David Starr,Garage 66,2256,40,29
+5576,4153,Christopher Bell,Joe Gibbs Racing,1550,28,30
+5576,1361,Denny Hamlin,Joe Gibbs Racing,1447,33,31
+5576,4123,Josh Berry,Wood Brothers Racing,1560,2,32
+5576,4001,Ross Chastain,Trackhouse Racing,3126,34,33
+5576,4113,Daniel Suarez,Trackhouse Racing,3081,31,34
+5576,4228,Chase Briscoe,Joe Gibbs Racing,2810,10,35
+5576,3859,Joey Logano,Team Penske,2593,1,36
+5576,4184,William Byron,Hendrick Motorsports,1581,18,37
+5576,4180,Austin Cindric,Team Penske,1547,4,38
+5576,4096,Corey LaJoie,Rick Ware Racing,3272,25,39
+5576,4023,Ryan Blaney,Team Penske,1460,3,40
+5569,4387,Corey Heim,23XI Racing,3178,0,0
+5569,4469,Shane Van Gisbergen,Trackhouse Racing,3255,1,1
+5569,4368,Ty Gibbs,Joe Gibbs Racing,3175,9,2
+5569,4065,Tyler Reddick,23XI Racing,3131,4,3
+5569,1361,Denny Hamlin,Joe Gibbs Racing,1447,40,4
+5569,454,Kyle Busch,Richard Childress Racing,2983,6,5
+5569,3774,AJ Allmendinger,Kaulig Racing,3049,16,6
+5569,4070,Ryan Preece,RFK Racing,3212,7,7
+5569,4045,Alex Bowman,Hendrick Motorsports,1707,11,8
+5569,4133,Austin Hill,Richard Childress Racing,1643,30,9
+5569,4001,Ross Chastain,Trackhouse Racing,3126,22,10
+5569,3859,Joey Logano,Team Penske,2593,12,11
+5569,4023,Ryan Blaney,Team Penske,1460,17,12
+5569,4030,Kyle Larson,Hendrick Motorsports,1717,14,13
+5569,4272,Zane Smith,Front Row Motorsports,2485,26,14
+5569,4092,John Hunter Nemechek,Legacy Motor Club,3130,25,15
+5569,4062,Chase Elliott,Hendrick Motorsports,2952,39,16
+5569,4269,Riley Herbst,23XI Racing,3250,21,17
+5569,3989,Chris Buescher,RFK Racing,1513,8,18
+5569,4284,Katherine Legge,Live Fast Motorsports,3080,33,19
+5569,4013,Ty Dillon,Kaulig Racing,3249,36,20
+5569,4213,Josh Bilicki,Garage 66,2256,31,21
+5569,4172,Justin Haley,Spire Motorsports,3077,28,22
+5569,4228,Chase Briscoe,Joe Gibbs Racing,2810,5,23
+5569,4153,Christopher Bell,Joe Gibbs Racing,1550,13,24
+5569,4059,Erik Jones,Legacy Motor Club,1690,34,25
+5569,4125,Cody Ware,Rick Ware Racing,1430,35,26
+5569,4180,Austin Cindric,Team Penske,1547,27,27
+5569,4025,Bubba Wallace,23XI Racing,3078,37,28
+5569,4113,Daniel Suarez,Trackhouse Racing,3081,18,29
+5569,4224,Noah Gragson,Front Row Motorsports,3247,24,30
+5569,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,32,31
+5569,3832,Michael McDowell,Spire Motorsports,3213,2,32
+5569,4104,Cole Custer,Haas Factory Team,2767,23,33
+5569,4123,Josh Berry,Wood Brothers Racing,1560,29,34
+5569,4326,Carson Hocevar,Spire Motorsports,3000,3,35
+5569,3873,Austin Dillon,Richard Childress Racing,2765,10,36
+5569,1816,Brad Keselowski,RFK Racing,2803,15,37
+5569,4231,Todd Gilliland,Front Row Motorsports,1648,20,38
+5569,4492,Will Brown,Kaulig Racing,3174,19,39
+5569,4184,William Byron,Hendrick Motorsports,1581,38,40
+5565,4469,Shane Van Gisbergen,Trackhouse Racing,3255,1,1
+5565,4228,Chase Briscoe,Joe Gibbs Racing,2810,2,2
+5565,4062,Chase Elliott,Hendrick Motorsports,2952,13,3
+5565,3832,Michael McDowell,Spire Motorsports,3213,15,4
+5565,4153,Christopher Bell,Joe Gibbs Racing,1550,10,5
+5565,4065,Tyler Reddick,23XI Racing,3131,8,6
+5565,4368,Ty Gibbs,Joe Gibbs Racing,3175,6,7
+5565,4184,William Byron,Hendrick Motorsports,1581,3,8
+5565,3859,Joey Logano,Team Penske,2593,22,9
+5565,454,Kyle Busch,Richard Childress Racing,2983,17,10
+5565,1816,Brad Keselowski,RFK Racing,2803,21,11
+5565,4070,Ryan Preece,RFK Racing,3212,20,12
+5565,4123,Josh Berry,Wood Brothers Racing,1560,25,13
+5565,4113,Daniel Suarez,Trackhouse Racing,3081,19,14
+5565,4172,Justin Haley,Spire Motorsports,3077,29,15
+5565,3989,Chris Buescher,RFK Racing,1513,14,16
+5565,4013,Ty Dillon,Kaulig Racing,3249,26,17
+5565,3774,AJ Allmendinger,Kaulig Racing,3049,5,18
+5565,4045,Alex Bowman,Hendrick Motorsports,1707,9,19
+5565,1361,Denny Hamlin,Joe Gibbs Racing,1447,16,20
+5565,3873,Austin Dillon,Richard Childress Racing,2765,33,21
+5565,4231,Todd Gilliland,Front Row Motorsports,1648,35,22
+5565,4104,Cole Custer,Haas Factory Team,2767,27,23
+5565,4001,Ross Chastain,Trackhouse Racing,3126,4,24
+5565,4269,Riley Herbst,23XI Racing,3250,28,25
+5565,4025,Bubba Wallace,23XI Racing,3078,30,26
+5565,4272,Zane Smith,Front Row Motorsports,2485,12,27
+5565,4092,John Hunter Nemechek,Legacy Motor Club,3130,18,28
+5565,4059,Erik Jones,Legacy Motor Club,1690,31,29
+5565,4180,Austin Cindric,Team Penske,1547,24,30
+5565,4284,Katherine Legge,Live Fast Motorsports,3080,37,31
+5565,4326,Carson Hocevar,Spire Motorsports,3000,23,32
+5565,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,33
+5565,4125,Cody Ware,Rick Ware Racing,1430,36,34
+5565,4030,Kyle Larson,Hendrick Motorsports,1717,11,35
+5565,4023,Ryan Blaney,Team Penske,1460,7,36
+5565,4224,Noah Gragson,Front Row Motorsports,3247,32,37
+5556,1361,Denny Hamlin,Joe Gibbs Racing,1447,13,1
+5556,4228,Chase Briscoe,Joe Gibbs Racing,2810,2,2
+5556,4045,Alex Bowman,Hendrick Motorsports,1707,16,3
+5556,4030,Kyle Larson,Hendrick Motorsports,1717,25,4
+5556,4368,Ty Gibbs,Joe Gibbs Racing,3175,9,5
+5556,4062,Chase Elliott,Hendrick Motorsports,2952,1,6
+5556,4025,Bubba Wallace,23XI Racing,3078,22,7
+5556,4023,Ryan Blaney,Team Penske,1460,31,8
+5556,3989,Chris Buescher,RFK Racing,1513,12,9
+5556,1816,Brad Keselowski,RFK Racing,2803,15,10
+5556,454,Kyle Busch,Richard Childress Racing,2983,10,11
+5556,4065,Tyler Reddick,23XI Racing,3131,4,12
+5556,3832,Michael McDowell,Spire Motorsports,3213,7,13
+5556,3859,Joey Logano,Team Penske,2593,8,14
+5556,3873,Austin Dillon,Richard Childress Racing,2765,23,15
+5556,4180,Austin Cindric,Team Penske,1547,26,16
+5556,4172,Justin Haley,Spire Motorsports,3077,20,17
+5556,4153,Christopher Bell,Joe Gibbs Racing,1550,3,18
+5556,4070,Ryan Preece,RFK Racing,3212,11,19
+5556,4013,Ty Dillon,Kaulig Racing,3249,21,20
+5556,4092,John Hunter Nemechek,Legacy Motor Club,3130,28,21
+5556,4272,Zane Smith,Front Row Motorsports,2485,30,22
+5556,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,23
+5556,4269,Riley Herbst,23XI Racing,3250,32,24
+5556,4231,Todd Gilliland,Front Row Motorsports,1648,24,25
+5556,4113,Daniel Suarez,Trackhouse Racing,3081,18,26
+5556,4059,Erik Jones,Legacy Motor Club,1690,27,27
+5556,4123,Josh Berry,Wood Brothers Racing,1560,14,28
+5556,4104,Cole Custer,Haas Factory Team,2767,29,29
+5556,4469,Shane Van Gisbergen,Trackhouse Racing,3255,6,30
+5556,4184,William Byron,Hendrick Motorsports,1581,5,31
+5556,4224,Noah Gragson,Front Row Motorsports,3247,36,32
+5556,4001,Ross Chastain,Trackhouse Racing,3126,19,33
+5556,3669,JJ Yeley,NY Racing Team,2987,37,34
+5556,4326,Carson Hocevar,Spire Motorsports,3000,33,35
+5556,4125,Cody Ware,Rick Ware Racing,1430,35,36
+5556,3774,AJ Allmendinger,Kaulig Racing,3049,17,37
+5571,4025,Bubba Wallace,23XI Racing,3078,2,1
+5571,4030,Kyle Larson,Hendrick Motorsports,1717,13,2
+5571,1361,Denny Hamlin,Joe Gibbs Racing,1447,39,3
+5571,4070,Ryan Preece,RFK Racing,3212,23,4
+5571,1816,Brad Keselowski,RFK Racing,2803,14,5
+5571,4231,Todd Gilliland,Front Row Motorsports,1648,19,6
+5571,4023,Ryan Blaney,Team Penske,1460,24,7
+5571,4153,Christopher Bell,Joe Gibbs Racing,1550,16,8
+5571,4045,Alex Bowman,Hendrick Motorsports,1707,21,9
+5571,4326,Carson Hocevar,Spire Motorsports,3000,8,10
+5571,4172,Justin Haley,Spire Motorsports,3077,28,11
+5571,4092,John Hunter Nemechek,Legacy Motor Club,3130,36,12
+5571,4062,Chase Elliott,Hendrick Motorsports,2952,30,13
+5571,3989,Chris Buescher,RFK Racing,1513,7,14
+5571,4180,Austin Cindric,Team Penske,1547,10,15
+5571,4184,William Byron,Hendrick Motorsports,1581,6,16
+5571,4284,Katherine Legge,Live Fast Motorsports,3080,38,17
+5571,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,18
+5571,4469,Shane Van Gisbergen,Trackhouse Racing,3255,11,19
+5571,4104,Cole Custer,Haas Factory Team,2767,29,20
+5571,4368,Ty Gibbs,Joe Gibbs Racing,3175,5,21
+5571,4123,Josh Berry,Wood Brothers Racing,1560,17,22
+5571,3774,AJ Allmendinger,Kaulig Racing,3049,9,23
+5571,4463,Jesse Love,Beard Motorsports,2794,35,24
+5571,454,Kyle Busch,Richard Childress Racing,2983,12,25
+5571,4269,Riley Herbst,23XI Racing,3250,25,26
+5571,4113,Daniel Suarez,Trackhouse Racing,3081,31,27
+5571,4013,Ty Dillon,Kaulig Racing,3249,26,28
+5571,4065,Tyler Reddick,23XI Racing,3131,4,29
+5571,3832,Michael McDowell,Spire Motorsports,3213,22,30
+5571,4272,Zane Smith,Front Row Motorsports,2485,27,31
+5571,3859,Joey Logano,Team Penske,2593,15,32
+5571,4224,Noah Gragson,Front Row Motorsports,3247,18,33
+5571,4213,Josh Bilicki,Garage 66,2256,37,34
+5571,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,32,35
+5571,4059,Erik Jones,Legacy Motor Club,1690,3,36
+5571,4125,Cody Ware,Rick Ware Racing,1430,34,37
+5571,3873,Austin Dillon,Richard Childress Racing,2765,20,38
+5571,4001,Ross Chastain,Trackhouse Racing,3126,33,39
+5566,4184,William Byron,Hendrick Motorsports,1581,2,1
+5566,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,2
+5566,1816,Brad Keselowski,RFK Racing,2803,5,3
+5566,4023,Ryan Blaney,Team Penske,1460,6,4
+5566,4070,Ryan Preece,RFK Racing,3212,33,5
+5566,4025,Bubba Wallace,23XI Racing,3078,15,6
+5566,4045,Alex Bowman,Hendrick Motorsports,1707,16,7
+5566,4326,Carson Hocevar,Spire Motorsports,3000,7,8
+5566,3859,Joey Logano,Team Penske,2593,14,9
+5566,3873,Austin Dillon,Richard Childress Racing,2765,18,10
+5566,4001,Ross Chastain,Trackhouse Racing,3126,28,11
+5566,4180,Austin Cindric,Team Penske,1547,4,12
+5566,4123,Josh Berry,Wood Brothers Racing,1560,12,13
+5566,4062,Chase Elliott,Hendrick Motorsports,2952,8,14
+5566,4092,John Hunter Nemechek,Legacy Motor Club,3130,29,15
+5566,4059,Erik Jones,Legacy Motor Club,1690,25,16
+5566,4153,Christopher Bell,Joe Gibbs Racing,1550,17,17
+5566,3774,AJ Allmendinger,Kaulig Racing,3049,9,18
+5566,4065,Tyler Reddick,23XI Racing,3131,22,19
+5566,454,Kyle Busch,Richard Childress Racing,2983,37,20
+5566,4368,Ty Gibbs,Joe Gibbs Racing,3175,20,21
+5566,3989,Chris Buescher,RFK Racing,1513,27,22
+5566,4172,Justin Haley,Spire Motorsports,3077,10,23
+5566,1361,Denny Hamlin,Joe Gibbs Racing,1447,11,24
+5566,4113,Daniel Suarez,Trackhouse Racing,3081,26,25
+5566,4104,Cole Custer,Haas Factory Team,2767,19,26
+5566,3832,Michael McDowell,Spire Motorsports,3213,13,27
+5566,4030,Kyle Larson,Hendrick Motorsports,1717,3,28
+5566,4224,Noah Gragson,Front Row Motorsports,3247,31,29
+5566,4269,Riley Herbst,23XI Racing,3250,24,30
+5566,4469,Shane Van Gisbergen,Trackhouse Racing,3255,21,31
+5566,4125,Cody Ware,Rick Ware Racing,1430,35,32
+5566,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,30,33
+5566,4231,Todd Gilliland,Front Row Motorsports,1648,34,34
+5566,4013,Ty Dillon,Kaulig Racing,3249,32,35
+5566,4272,Zane Smith,Front Row Motorsports,2485,23,36
+5566,4004,Joey Gase,Garage 66,2256,36,37
+5577,4481,Connor Zilisch,Trackhouse Racing,3254,25,0
+5577,4469,Shane Van Gisbergen,Trackhouse Racing,3255,2,1
+5577,4153,Christopher Bell,Joe Gibbs Racing,1550,9,2
+5577,3989,Chris Buescher,RFK Racing,1513,12,3
+5577,4184,William Byron,Hendrick Motorsports,1581,10,4
+5577,4228,Chase Briscoe,Joe Gibbs Racing,2810,3,5
+5577,4023,Ryan Blaney,Team Penske,1460,1,6
+5577,4113,Daniel Suarez,Trackhouse Racing,3081,19,7
+5577,4025,Bubba Wallace,23XI Racing,3078,15,8
+5577,4065,Tyler Reddick,23XI Racing,3131,21,9
+5577,4001,Ross Chastain,Trackhouse Racing,3126,4,10
+5577,3774,AJ Allmendinger,Kaulig Racing,3049,18,11
+5577,4059,Erik Jones,Legacy Motor Club,1690,29,12
+5577,4070,Ryan Preece,RFK Racing,3212,17,13
+5577,3859,Joey Logano,Team Penske,2593,11,14
+5577,3873,Austin Dillon,Richard Childress Racing,2765,25,15
+5577,4180,Austin Cindric,Team Penske,1547,13,16
+5577,4272,Zane Smith,Front Row Motorsports,2485,33,17
+5577,4326,Carson Hocevar,Spire Motorsports,3000,8,18
+5577,3832,Michael McDowell,Spire Motorsports,3213,6,19
+5577,4045,Alex Bowman,Hendrick Motorsports,1707,7,20
+5577,4224,Noah Gragson,Front Row Motorsports,3247,35,21
+5577,454,Kyle Busch,Richard Childress Racing,2983,5,22
+5577,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,23
+5577,4269,Riley Herbst,23XI Racing,3250,28,24
+5577,1361,Denny Hamlin,Joe Gibbs Racing,1447,22,25
+5577,4062,Chase Elliott,Hendrick Motorsports,2952,20,26
+5577,4172,Justin Haley,Spire Motorsports,3077,23,27
+5577,4231,Todd Gilliland,Front Row Motorsports,1648,27,28
+5577,4125,Cody Ware,Rick Ware Racing,1430,36,29
+5577,4013,Ty Dillon,Kaulig Racing,3249,32,30
+5577,1816,Brad Keselowski,RFK Racing,2803,16,31
+5577,4092,John Hunter Nemechek,Legacy Motor Club,3130,30,32
+5577,4368,Ty Gibbs,Joe Gibbs Racing,3175,14,33
+5577,4104,Cole Custer,Haas Factory Team,2767,31,34
+5577,4123,Josh Berry,Wood Brothers Racing,1560,24,35
+5577,4284,Katherine Legge,Live Fast Motorsports,3080,37,36
+5577,4213,Josh Bilicki,Garage 66,2256,39,37
+5577,3669,JJ Yeley,NY Racing Team,2987,38,38
+5577,4030,Kyle Larson,Hendrick Motorsports,1717,26,39
+5572,3873,Austin Dillon,Richard Childress Racing,2765,11,1
+5572,4045,Alex Bowman,Hendrick Motorsports,1707,9,2
+5572,4023,Ryan Blaney,Team Penske,1460,20,3
+5572,3859,Joey Logano,Team Penske,2593,38,4
+5572,4180,Austin Cindric,Team Penske,1547,13,5
+5572,4030,Kyle Larson,Hendrick Motorsports,1717,30,6
+5572,4113,Daniel Suarez,Trackhouse Racing,3081,21,7
+5572,4123,Josh Berry,Wood Brothers Racing,1560,17,8
+5572,1816,Brad Keselowski,RFK Racing,2803,6,9
+5572,1361,Denny Hamlin,Joe Gibbs Racing,1447,4,10
+5572,4272,Zane Smith,Front Row Motorsports,2485,29,11
+5572,4184,William Byron,Hendrick Motorsports,1581,14,12
+5572,4228,Chase Briscoe,Joe Gibbs Racing,2810,19,13
+5572,4469,Shane Van Gisbergen,Trackhouse Racing,3255,27,14
+5572,4326,Carson Hocevar,Spire Motorsports,3000,15,15
+5572,454,Kyle Busch,Richard Childress Racing,2983,28,16
+5572,3832,Michael McDowell,Spire Motorsports,3213,10,17
+5572,4368,Ty Gibbs,Joe Gibbs Racing,3175,23,18
+5572,4001,Ross Chastain,Trackhouse Racing,3126,33,19
+5572,4013,Ty Dillon,Kaulig Racing,3249,16,20
+5572,4153,Christopher Bell,Joe Gibbs Racing,1550,8,21
+5572,3774,AJ Allmendinger,Kaulig Racing,3049,3,22
+5572,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,36,23
+5572,4104,Cole Custer,Haas Factory Team,2767,24,24
+5572,4231,Todd Gilliland,Front Row Motorsports,1648,31,25
+5572,4059,Erik Jones,Legacy Motor Club,1690,18,26
+5572,4224,Noah Gragson,Front Row Motorsports,3247,22,27
+5572,4025,Bubba Wallace,23XI Racing,3078,7,28
+5572,4387,Corey Heim,23XI Racing,3178,32,29
+5572,3989,Chris Buescher,RFK Racing,1513,12,30
+5572,4269,Riley Herbst,23XI Racing,3250,26,31
+5572,4125,Cody Ware,Rick Ware Racing,1430,37,32
+5572,4463,Jesse Love,Richard Childress Racing,1643,35,33
+5572,4065,Tyler Reddick,23XI Racing,3131,2,34
+5572,4070,Ryan Preece,RFK Racing,3212,1,35
+5572,4092,John Hunter Nemechek,Legacy Motor Club,3130,34,36
+5572,4172,Justin Haley,Spire Motorsports,3077,25,37
+5572,4062,Chase Elliott,Hendrick Motorsports,2952,5,38
+5574,4023,Ryan Blaney,Team Penske,1460,1,1
+5574,4113,Daniel Suarez,Trackhouse Racing,3081,12,2
+5574,4172,Justin Haley,Spire Motorsports,3077,37,3
+5574,4104,Cole Custer,Haas Factory Team,2767,29,4
+5574,4059,Erik Jones,Legacy Motor Club,1690,26,5
+5574,4030,Kyle Larson,Hendrick Motorsports,1717,3,6
+5574,3989,Chris Buescher,RFK Racing,1513,24,7
+5574,4368,Ty Gibbs,Joe Gibbs Racing,3175,18,8
+5574,4123,Josh Berry,Wood Brothers Racing,1560,11,9
+5574,4062,Chase Elliott,Hendrick Motorsports,2952,30,10
+5574,4231,Todd Gilliland,Front Row Motorsports,1648,28,11
+5574,3832,Michael McDowell,Spire Motorsports,3213,20,12
+5574,4153,Christopher Bell,Joe Gibbs Racing,1550,15,13
+5574,4070,Ryan Preece,RFK Racing,3212,31,14
+5574,4001,Ross Chastain,Trackhouse Racing,3126,19,15
+5574,4469,Shane Van Gisbergen,Trackhouse Racing,3255,17,16
+5574,4092,John Hunter Nemechek,Legacy Motor Club,3130,34,17
+5574,1816,Brad Keselowski,RFK Racing,2803,10,18
+5574,4184,William Byron,Hendrick Motorsports,1581,8,19
+5574,4125,Cody Ware,Rick Ware Racing,1430,35,20
+5574,4065,Tyler Reddick,23XI Racing,3131,27,21
+5574,4013,Ty Dillon,Kaulig Racing,3249,23,22
+5574,4228,Chase Briscoe,Joe Gibbs Racing,2810,9,23
+5574,3873,Austin Dillon,Richard Childress Racing,2765,7,24
+5574,1361,Denny Hamlin,Joe Gibbs Racing,1447,6,25
+5574,3774,AJ Allmendinger,Kaulig Racing,3049,21,26
+5574,3859,Joey Logano,Team Penske,2593,4,27
+5574,4004,Joey Gase,NY Racing Team,2987,40,28
+5574,2215,Casey Mears,Garage 66,2256,39,29
+5574,4133,Austin Hill,Richard Childress Racing,1643,36,30
+5574,4272,Zane Smith,Front Row Motorsports,2485,13,31
+5574,3973,BJ McLeod,Live Fast Motorsports,3080,38,32
+5574,454,Kyle Busch,Richard Childress Racing,2983,14,33
+5574,4326,Carson Hocevar,Spire Motorsports,3000,16,34
+5574,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,25,35
+5574,4045,Alex Bowman,Hendrick Motorsports,1707,2,36
+5574,4025,Bubba Wallace,23XI Racing,3078,22,37
+5574,4224,Noah Gragson,Front Row Motorsports,3247,32,38
+5574,4180,Austin Cindric,Team Penske,1547,5,39
+5574,4269,Riley Herbst,23XI Racing,3250,33,40
+5575,4228,Chase Briscoe,Joe Gibbs Racing,2810,2,1
+5575,4065,Tyler Reddick,23XI Racing,3131,4,2
+5575,4059,Erik Jones,Legacy Motor Club,1690,19,3
+5575,4092,John Hunter Nemechek,Legacy Motor Club,3130,30,4
+5575,3774,AJ Allmendinger,Kaulig Racing,3049,22,5
+5575,4025,Bubba Wallace,23XI Racing,3078,8,6
+5575,1361,Denny Hamlin,Joe Gibbs Racing,1447,1,7
+5575,454,Kyle Busch,Richard Childress Racing,2983,23,8
+5575,4326,Carson Hocevar,Spire Motorsports,3000,26,9
+5575,3989,Chris Buescher,RFK Racing,1513,15,10
+5575,4001,Ross Chastain,Trackhouse Racing,3126,6,11
+5575,4180,Austin Cindric,Team Penske,1547,10,12
+5575,4272,Zane Smith,Front Row Motorsports,2485,24,13
+5575,4224,Noah Gragson,Front Row Motorsports,3247,34,14
+5575,1816,Brad Keselowski,RFK Racing,2803,32,15
+5575,4070,Ryan Preece,RFK Racing,3212,27,16
+5575,4062,Chase Elliott,Hendrick Motorsports,2952,21,17
+5575,4023,Ryan Blaney,Team Penske,1460,12,18
+5575,4030,Kyle Larson,Hendrick Motorsports,1717,5,19
+5575,3859,Joey Logano,Team Penske,2593,14,20
+5575,4184,William Byron,Hendrick Motorsports,1581,11,21
+5575,4368,Ty Gibbs,Joe Gibbs Racing,3175,16,22
+5575,3873,Austin Dillon,Richard Childress Racing,2765,9,23
+5575,4104,Cole Custer,Haas Factory Team,2767,18,24
+5575,4113,Daniel Suarez,Trackhouse Racing,3081,17,25
+5575,4231,Todd Gilliland,Front Row Motorsports,1648,28,26
+5575,4172,Justin Haley,Spire Motorsports,3077,13,27
+5575,4269,Riley Herbst,23XI Racing,3250,33,28
+5575,4153,Christopher Bell,Joe Gibbs Racing,1550,7,29
+5575,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,35,30
+5575,4045,Alex Bowman,Hendrick Motorsports,1707,29,31
+5575,4469,Shane Van Gisbergen,Trackhouse Racing,3255,20,32
+5575,3832,Michael McDowell,Spire Motorsports,3213,25,33
+5575,4013,Ty Dillon,Kaulig Racing,3249,31,34
+5575,3984,Timmy Hill,Garage 66,2256,38,35
+5575,4297,Derek Kraus,NY Racing Team,2987,37,36
+5575,4125,Cody Ware,Rick Ware Racing,1430,36,37
+5575,4123,Josh Berry,Wood Brothers Racing,1560,3,38
+5564,1361,Denny Hamlin,Joe Gibbs Racing,1447,1,1
+5564,4228,Chase Briscoe,Joe Gibbs Racing,2810,3,2
+5564,4062,Chase Elliott,Hendrick Motorsports,2952,19,3
+5564,4023,Ryan Blaney,Team Penske,1460,5,4
+5564,3859,Joey Logano,Team Penske,2593,13,5
+5564,4092,John Hunter Nemechek,Legacy Motor Club,3130,20,6
+5564,4153,Christopher Bell,Joe Gibbs Racing,1550,8,7
+5564,4025,Bubba Wallace,23XI Racing,3078,14,8
+5564,3989,Chris Buescher,RFK Racing,1513,11,9
+5564,4368,Ty Gibbs,Joe Gibbs Racing,3175,21,10
+5564,4184,William Byron,Hendrick Motorsports,1581,6,11
+5564,4030,Kyle Larson,Hendrick Motorsports,1717,2,12
+5564,4070,Ryan Preece,RFK Racing,3212,32,13
+5564,3832,Michael McDowell,Spire Motorsports,3213,28,14
+5564,4326,Carson Hocevar,Spire Motorsports,3000,27,15
+5564,4065,Tyler Reddick,23XI Racing,3131,7,16
+5564,1816,Brad Keselowski,RFK Racing,2803,23,17
+5564,3873,Austin Dillon,Richard Childress Racing,2765,15,18
+5564,4180,Austin Cindric,Team Penske,1547,9,19
+5564,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,20
+5564,4059,Erik Jones,Legacy Motor Club,1690,16,21
+5564,454,Kyle Busch,Richard Childress Racing,2983,22,22
+5564,3774,AJ Allmendinger,Kaulig Racing,3049,17,23
+5564,4001,Ross Chastain,Trackhouse Racing,3126,4,24
+5564,4469,Shane Van Gisbergen,Trackhouse Racing,3255,18,25
+5564,4045,Alex Bowman,Hendrick Motorsports,1707,25,26
+5564,4104,Cole Custer,Haas Factory Team,2767,29,27
+5564,4172,Justin Haley,Spire Motorsports,3077,31,28
+5564,4125,Cody Ware,Rick Ware Racing,1430,36,29
+5564,4224,Noah Gragson,Front Row Motorsports,3247,24,30
+5564,4269,Riley Herbst,23XI Racing,3250,33,31
+5564,4231,Todd Gilliland,Front Row Motorsports,1648,30,32
+5564,4272,Zane Smith,Front Row Motorsports,2485,10,33
+5564,4013,Ty Dillon,Kaulig Racing,3249,35,34
+5564,4113,Daniel Suarez,Trackhouse Racing,3081,26,35
+5564,4123,Josh Berry,Wood Brothers Racing,1560,12,36
+5578,4153,Christopher Bell,Joe Gibbs Racing,1550,9,1
+5578,1816,Brad Keselowski,RFK Racing,2803,18,2
+5578,4272,Zane Smith,Front Row Motorsports,2485,24,3
+5578,4023,Ryan Blaney,Team Penske,1460,2,4
+5578,3859,Joey Logano,Team Penske,2593,22,5
+5578,4387,Corey Heim,23XI Racing,3178,38,6
+5578,4326,Carson Hocevar,Spire Motorsports,3000,12,7
+5578,4045,Alex Bowman,Hendrick Motorsports,1707,15,8
+5578,4228,Chase Briscoe,Joe Gibbs Racing,2810,31,9
+5578,4368,Ty Gibbs,Joe Gibbs Racing,3175,4,10
+5578,3989,Chris Buescher,RFK Racing,1513,21,11
+5578,4184,William Byron,Hendrick Motorsports,1581,7,12
+5578,4172,Justin Haley,Spire Motorsports,3077,17,13
+5578,4092,John Hunter Nemechek,Legacy Motor Club,3130,19,14
+5578,4065,Tyler Reddick,23XI Racing,3131,14,15
+5578,454,Kyle Busch,Richard Childress Racing,2983,32,16
+5578,3832,Michael McDowell,Spire Motorsports,3213,25,17
+5578,4269,Riley Herbst,23XI Racing,3250,29,18
+5578,4001,Ross Chastain,Trackhouse Racing,3126,13,19
+5578,4059,Erik Jones,Legacy Motor Club,1690,27,20
+5578,4070,Ryan Preece,RFK Racing,3212,20,21
+5578,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,11,22
+5578,4224,Noah Gragson,Front Row Motorsports,3247,30,23
+5578,4231,Todd Gilliland,Front Row Motorsports,1648,36,24
+5578,4133,Austin Hill,Richard Childress Racing,1643,33,25
+5578,4469,Shane Van Gisbergen,Trackhouse Racing,3255,28,26
+5578,4013,Ty Dillon,Kaulig Racing,3249,37,27
+5578,3873,Austin Dillon,Richard Childress Racing,2765,23,28
+5578,4125,Cody Ware,Rick Ware Racing,1430,34,29
+5578,4180,Austin Cindric,Team Penske,1547,3,30
+5578,1361,Denny Hamlin,Joe Gibbs Racing,1447,6,31
+5578,4030,Kyle Larson,Hendrick Motorsports,1717,5,32
+5578,4104,Cole Custer,Haas Factory Team,2767,26,33
+5578,4025,Bubba Wallace,23XI Racing,3078,8,34
+5578,4232,Chad Finchum,Garage 66,2256,39,35
+5578,3774,AJ Allmendinger,Kaulig Racing,3049,1,36
+5578,4113,Daniel Suarez,Trackhouse Racing,3081,35,37
+5578,4062,Chase Elliott,Hendrick Motorsports,2952,16,38
+5578,4123,Josh Berry,Wood Brothers Racing,1560,10,39
+5567,4023,Ryan Blaney,Team Penske,1460,2,1
+5567,4123,Josh Berry,Wood Brothers Racing,1560,3,2
+5567,4184,William Byron,Hendrick Motorsports,1581,5,3
+5567,3859,Joey Logano,Team Penske,2593,1,4
+5567,4062,Chase Elliott,Hendrick Motorsports,2952,27,5
+5567,4153,Christopher Bell,Joe Gibbs Racing,1550,19,6
+5567,4030,Kyle Larson,Hendrick Motorsports,1717,16,7
+5567,3832,Michael McDowell,Spire Motorsports,3213,11,8
+5567,4001,Ross Chastain,Trackhouse Racing,3126,8,9
+5567,4228,Chase Briscoe,Joe Gibbs Racing,2810,18,10
+5567,4326,Carson Hocevar,Spire Motorsports,3000,6,11
+5567,1361,Denny Hamlin,Joe Gibbs Racing,1447,9,12
+5567,3873,Austin Dillon,Richard Childress Racing,2765,28,13
+5567,4070,Ryan Preece,RFK Racing,3212,23,14
+5567,4045,Alex Bowman,Hendrick Motorsports,1707,7,15
+5567,4224,Noah Gragson,Front Row Motorsports,3247,33,16
+5567,4180,Austin Cindric,Team Penske,1547,22,17
+5567,3989,Chris Buescher,RFK Racing,1513,15,18
+5567,4231,Todd Gilliland,Front Row Motorsports,1648,36,19
+5567,3774,AJ Allmendinger,Kaulig Racing,3049,12,20
+5567,4065,Tyler Reddick,23XI Racing,3131,4,21
+5567,4269,Riley Herbst,23XI Racing,3250,25,22
+5567,1816,Brad Keselowski,RFK Racing,2803,17,23
+5567,4104,Cole Custer,Haas Factory Team,2767,31,24
+5567,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,34,25
+5567,4025,Bubba Wallace,23XI Racing,3078,14,26
+5567,4272,Zane Smith,Front Row Motorsports,2485,20,27
+5567,4059,Erik Jones,Legacy Motor Club,1690,26,28
+5567,4013,Ty Dillon,Kaulig Racing,3249,30,29
+5567,454,Kyle Busch,Richard Childress Racing,2983,24,30
+5567,4125,Cody Ware,Rick Ware Racing,1430,35,31
+5567,4469,Shane Van Gisbergen,Trackhouse Racing,3255,10,32
+5567,4172,Justin Haley,Spire Motorsports,3077,21,33
+5567,4092,John Hunter Nemechek,Legacy Motor Club,3130,29,34
+5567,4368,Ty Gibbs,Joe Gibbs Racing,3175,13,35
+5567,4113,Daniel Suarez,Trackhouse Racing,3081,32,36
+5579,4062,Chase Elliott,Hendrick Motorsports,2952,4,1
+5579,1361,Denny Hamlin,Joe Gibbs Racing,1447,2,2
+5579,4153,Christopher Bell,Joe Gibbs Racing,1550,5,3
+5579,4228,Chase Briscoe,Joe Gibbs Racing,2810,1,4
+5579,4025,Bubba Wallace,23XI Racing,3078,7,5
+5579,4030,Kyle Larson,Hendrick Motorsports,1717,3,6
+5579,4065,Tyler Reddick,23XI Racing,3131,12,7
+5579,1816,Brad Keselowski,RFK Racing,2803,31,8
+5579,4184,William Byron,Hendrick Motorsports,1581,11,9
+5579,4469,Shane Van Gisbergen,Trackhouse Racing,3255,24,10
+5579,4001,Ross Chastain,Trackhouse Racing,3126,9,11
+5579,4231,Todd Gilliland,Front Row Motorsports,1648,23,12
+5579,4013,Ty Dillon,Kaulig Racing,3249,33,13
+5579,3832,Michael McDowell,Spire Motorsports,3213,21,14
+5579,3989,Chris Buescher,RFK Racing,1513,15,15
+5579,4059,Erik Jones,Legacy Motor Club,1690,10,16
+5579,4113,Daniel Suarez,Trackhouse Racing,3081,30,17
+5579,4172,Justin Haley,Spire Motorsports,3077,22,18
+5579,454,Kyle Busch,Richard Childress Racing,2983,29,19
+5579,4104,Cole Custer,Haas Factory Team,2767,27,20
+5579,3859,Joey Logano,Team Penske,2593,35,21
+5579,4269,Riley Herbst,23XI Racing,3250,32,22
+5579,4224,Noah Gragson,Front Row Motorsports,3247,14,23
+5579,4023,Ryan Blaney,Team Penske,1460,37,24
+5579,4368,Ty Gibbs,Joe Gibbs Racing,3175,8,25
+5579,4070,Ryan Preece,RFK Racing,3212,19,26
+5579,3873,Austin Dillon,Richard Childress Racing,2765,16,27
+5579,4045,Alex Bowman,Hendrick Motorsports,1707,17,28
+5579,4326,Carson Hocevar,Spire Motorsports,3000,6,29
+5579,4180,Austin Cindric,Team Penske,1547,26,30
+5579,4272,Zane Smith,Front Row Motorsports,2485,28,31
+5579,4092,John Hunter Nemechek,Legacy Motor Club,3130,25,32
+5579,4123,Josh Berry,Wood Brothers Racing,1560,13,33
+5579,3669,JJ Yeley,NY Racing Team,2987,36,34
+5579,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,18,35
+5579,3774,AJ Allmendinger,Kaulig Racing,3049,20,36
+5579,4125,Cody Ware,Rick Ware Racing,1430,34,37
+5581,4469,Shane Van Gisbergen,Trackhouse Racing,3255,2,1
+5581,4030,Kyle Larson,Hendrick Motorsports,1717,4,2
+5581,4153,Christopher Bell,Joe Gibbs Racing,1550,7,3
+5581,3989,Chris Buescher,RFK Racing,1513,5,4
+5581,3832,Michael McDowell,Spire Motorsports,3213,6,5
+5581,4070,Ryan Preece,RFK Racing,3212,29,6
+5581,4113,Daniel Suarez,Trackhouse Racing,3081,20,7
+5581,4062,Chase Elliott,Hendrick Motorsports,2952,15,8
+5581,3774,AJ Allmendinger,Kaulig Racing,3049,9,9
+5581,4065,Tyler Reddick,23XI Racing,3131,1,10
+5581,4184,William Byron,Hendrick Motorsports,1581,13,11
+5581,4368,Ty Gibbs,Joe Gibbs Racing,3175,3,12
+5581,4023,Ryan Blaney,Team Penske,1460,11,13
+5581,4228,Chase Briscoe,Joe Gibbs Racing,2810,8,14
+5581,4025,Bubba Wallace,23XI Racing,3078,12,15
+5581,4123,Josh Berry,Wood Brothers Racing,1560,33,16
+5581,4231,Todd Gilliland,Front Row Motorsports,1648,31,17
+5581,4045,Alex Bowman,Hendrick Motorsports,1707,25,18
+5581,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,26,19
+5581,3859,Joey Logano,Team Penske,2593,17,20
+5581,4001,Ross Chastain,Trackhouse Racing,3126,10,21
+5581,4104,Cole Custer,Haas Factory Team,2767,18,22
+5581,1361,Denny Hamlin,Joe Gibbs Racing,1447,14,23
+5581,4272,Zane Smith,Front Row Motorsports,2485,24,24
+5581,4172,Justin Haley,Spire Motorsports,3077,21,25
+5581,4092,John Hunter Nemechek,Legacy Motor Club,3130,35,26
+5581,4013,Ty Dillon,Kaulig Racing,3249,16,27
+5581,4224,Noah Gragson,Front Row Motorsports,3247,30,28
+5581,4326,Carson Hocevar,Spire Motorsports,3000,27,29
+5581,4059,Erik Jones,Legacy Motor Club,1690,37,30
+5581,3873,Austin Dillon,Richard Childress Racing,2765,36,31
+5581,4213,Josh Bilicki,Garage 66,2256,34,32
+5581,4125,Cody Ware,Rick Ware Racing,1430,32,33
+5581,454,Kyle Busch,Richard Childress Racing,2983,28,34
+5581,1816,Brad Keselowski,RFK Racing,2803,22,35
+5581,4180,Austin Cindric,Team Penske,1547,19,36
+5581,4269,Riley Herbst,23XI Racing,3250,23,37
+5582,1361,Denny Hamlin,Joe Gibbs Racing,1447,1,1
+5582,4030,Kyle Larson,Hendrick Motorsports,1717,6,2
+5582,4153,Christopher Bell,Joe Gibbs Racing,1550,3,3
+5582,4228,Chase Briscoe,Joe Gibbs Racing,2810,2,4
+5582,4065,Tyler Reddick,23XI Racing,3131,8,5
+5582,3859,Joey Logano,Team Penske,2593,9,6
+5582,4045,Alex Bowman,Hendrick Motorsports,1707,12,7
+5582,454,Kyle Busch,Richard Childress Racing,2983,32,8
+5582,4070,Ryan Preece,RFK Racing,3212,16,9
+5582,1816,Brad Keselowski,RFK Racing,2803,34,10
+5582,4180,Austin Cindric,Team Penske,1547,31,11
+5582,3989,Chris Buescher,RFK Racing,1513,11,12
+5582,4224,Noah Gragson,Front Row Motorsports,3247,28,13
+5582,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,24,14
+5582,4059,Erik Jones,Legacy Motor Club,1690,19,15
+5582,3832,Michael McDowell,Spire Motorsports,3213,18,16
+5582,4269,Riley Herbst,23XI Racing,3250,33,17
+5582,4062,Chase Elliott,Hendrick Motorsports,2952,4,18
+5582,3774,AJ Allmendinger,Kaulig Racing,3049,20,19
+5582,4113,Daniel Suarez,Trackhouse Racing,3081,17,20
+5582,4231,Todd Gilliland,Front Row Motorsports,1648,30,21
+5582,4025,Bubba Wallace,23XI Racing,3078,7,22
+5582,4001,Ross Chastain,Trackhouse Racing,3126,15,23
+5582,4272,Zane Smith,Front Row Motorsports,2485,23,24
+5582,3873,Austin Dillon,Richard Childress Racing,2765,25,25
+5582,4123,Josh Berry,Wood Brothers Racing,1560,29,26
+5582,4172,Justin Haley,Spire Motorsports,3077,27,27
+5582,4104,Cole Custer,Haas Factory Team,2767,21,28
+5582,4092,John Hunter Nemechek,Legacy Motor Club,3130,26,29
+5582,3669,JJ Yeley,NY Racing Team,2987,37,30
+5582,4284,Katherine Legge,Live Fast Motorsports,3080,38,31
+5582,4326,Carson Hocevar,Spire Motorsports,3000,22,32
+5582,4469,Shane Van Gisbergen,Trackhouse Racing,3255,13,33
+5582,4368,Ty Gibbs,Joe Gibbs Racing,3175,10,34
+5582,4125,Cody Ware,Rick Ware Racing,1430,36,35
+5582,4184,William Byron,Hendrick Motorsports,1581,5,36
+5582,4013,Ty Dillon,Kaulig Racing,3249,35,37
+5582,4023,Ryan Blaney,Team Penske,1460,14,38
+5580,4228,Chase Briscoe,Joe Gibbs Racing,2810,2,1
+5580,4231,Todd Gilliland,Front Row Motorsports,1648,27,2
+5580,4368,Ty Gibbs,Joe Gibbs Racing,3175,18,3
+5580,4025,Bubba Wallace,23XI Racing,3078,10,4
+5580,4104,Cole Custer,Haas Factory Team,2767,12,5
+5580,4326,Carson Hocevar,Spire Motorsports,3000,32,6
+5580,4065,Tyler Reddick,23XI Racing,3131,15,7
+5580,4153,Christopher Bell,Joe Gibbs Racing,1550,7,8
+5580,4272,Zane Smith,Front Row Motorsports,2485,23,9
+5580,1816,Brad Keselowski,RFK Racing,2803,20,10
+5580,4469,Shane Van Gisbergen,Trackhouse Racing,3255,31,11
+5580,4113,Daniel Suarez,Trackhouse Racing,3081,26,12
+5580,4001,Ross Chastain,Trackhouse Racing,3126,24,13
+5580,4092,John Hunter Nemechek,Legacy Motor Club,3130,28,14
+5580,4070,Ryan Preece,RFK Racing,3212,5,15
+5580,3859,Joey Logano,Team Penske,2593,16,16
+5580,3832,Michael McDowell,Spire Motorsports,3213,1,17
+5580,2215,Casey Mears,Garage 66,2256,40,18
+5580,454,Kyle Busch,Richard Childress Racing,2983,3,19
+5580,4013,Ty Dillon,Kaulig Racing,3249,29,20
+5580,4301,Anthony Alfredo,Beard Motorsports,2794,38,21
+5580,4133,Austin Hill,Richard Childress Racing,1643,33,22
+5580,4023,Ryan Blaney,Team Penske,1460,8,23
+5580,1361,Denny Hamlin,Joe Gibbs Racing,1447,17,24
+5580,4184,William Byron,Hendrick Motorsports,1581,13,25
+5580,4030,Kyle Larson,Hendrick Motorsports,1717,19,26
+5580,3873,Austin Dillon,Richard Childress Racing,2765,21,27
+5580,3973,BJ McLeod,Live Fast Motorsports,3080,39,28
+5580,4045,Alex Bowman,Hendrick Motorsports,1707,11,29
+5580,3989,Chris Buescher,RFK Racing,1513,14,30
+5580,4125,Cody Ware,Rick Ware Racing,1430,35,31
+5580,4269,Riley Herbst,23XI Racing,3250,9,32
+5580,4123,Josh Berry,Wood Brothers Racing,1560,6,33
+5580,4180,Austin Cindric,Team Penske,1547,4,34
+5580,4059,Erik Jones,Legacy Motor Club,1690,30,35
+5580,4224,Noah Gragson,Front Row Motorsports,3247,36,36
+5580,3774,AJ Allmendinger,Kaulig Racing,3049,34,37
+5580,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,37,38
+5580,4172,Justin Haley,Spire Motorsports,3077,22,39
+5580,4062,Chase Elliott,Hendrick Motorsports,2952,25,40
+5584,4184,William Byron,Hendrick Motorsports,1581,1,1
+5584,4023,Ryan Blaney,Team Penske,1460,31,2
+5584,4062,Chase Elliott,Hendrick Motorsports,2952,8,3
+5584,4001,Ross Chastain,Trackhouse Racing,3126,13,4
+5584,4030,Kyle Larson,Hendrick Motorsports,1717,3,5
+5584,4070,Ryan Preece,RFK Racing,3212,18,6
+5584,4153,Christopher Bell,Joe Gibbs Racing,1550,12,7
+5584,3859,Joey Logano,Team Penske,2593,4,8
+5584,4231,Todd Gilliland,Front Row Motorsports,1648,16,9
+5584,4123,Josh Berry,Wood Brothers Racing,1560,27,10
+5584,4065,Tyler Reddick,23XI Racing,3131,14,11
+5584,4368,Ty Gibbs,Joe Gibbs Racing,3175,2,12
+5584,454,Kyle Busch,Richard Childress Racing,2983,7,13
+5584,4469,Shane Van Gisbergen,Trackhouse Racing,3255,22,14
+5584,4180,Austin Cindric,Team Penske,1547,10,15
+5584,3873,Austin Dillon,Richard Childress Racing,2765,20,16
+5584,4104,Cole Custer,Haas Factory Team,2767,6,17
+5584,4025,Bubba Wallace,23XI Racing,3078,21,18
+5584,4172,Justin Haley,Spire Motorsports,3077,34,19
+5584,1816,Brad Keselowski,RFK Racing,2803,19,20
+5584,4092,John Hunter Nemechek,Legacy Motor Club,3130,24,21
+5584,4113,Daniel Suarez,Trackhouse Racing,3081,30,22
+5584,4045,Alex Bowman,Hendrick Motorsports,1707,17,23
+5584,3832,Michael McDowell,Spire Motorsports,3213,11,24
+5584,4272,Zane Smith,Front Row Motorsports,2485,23,25
+5584,4013,Ty Dillon,Kaulig Racing,3249,26,26
+5584,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,32,27
+5584,3774,AJ Allmendinger,Kaulig Racing,3049,33,28
+5584,3989,Chris Buescher,RFK Racing,1513,29,29
+5584,4224,Noah Gragson,Front Row Motorsports,3247,35,30
+5584,4326,Carson Hocevar,Spire Motorsports,3000,15,31
+5584,4125,Cody Ware,Rick Ware Racing,1430,36,32
+5584,2215,Casey Mears,Garage 66,2256,37,33
+5584,4059,Erik Jones,Legacy Motor Club,1690,28,34
+5584,1361,Denny Hamlin,Joe Gibbs Racing,1447,5,35
+5584,4269,Riley Herbst,23XI Racing,3250,25,36
+5584,4228,Chase Briscoe,Joe Gibbs Racing,2810,9,37
+5585,4023,Ryan Blaney,Team Penske,1460,5,1
+5585,1816,Brad Keselowski,RFK Racing,2803,19,2
+5585,4030,Kyle Larson,Hendrick Motorsports,1717,3,3
+5585,3859,Joey Logano,Team Penske,2593,10,4
+5585,454,Kyle Busch,Richard Childress Racing,2983,11,5
+5585,1361,Denny Hamlin,Joe Gibbs Racing,1447,1,6
+5585,4123,Josh Berry,Wood Brothers Racing,1560,7,7
+5585,3832,Michael McDowell,Spire Motorsports,3213,37,8
+5585,4070,Ryan Preece,RFK Racing,3212,21,9
+5585,4062,Chase Elliott,Hendrick Motorsports,2952,17,10
+5585,4153,Christopher Bell,Joe Gibbs Racing,1550,20,11
+5585,3989,Chris Buescher,RFK Racing,1513,9,12
+5585,4001,Ross Chastain,Trackhouse Racing,3126,13,13
+5585,4172,Justin Haley,Spire Motorsports,3077,29,14
+5585,4045,Alex Bowman,Hendrick Motorsports,1707,8,15
+5585,4059,Erik Jones,Legacy Motor Club,1690,15,16
+5585,3888,Ricky Stenhouse Jr.,HYAK Motorsports,3252,16,17
+5585,4228,Chase Briscoe,Joe Gibbs Racing,2810,12,18
+5585,4113,Daniel Suarez,Trackhouse Racing,3081,14,19
+5585,3873,Austin Dillon,Richard Childress Racing,2765,26,20
+5585,4368,Ty Gibbs,Joe Gibbs Racing,3175,25,21
+5585,4231,Todd Gilliland,Front Row Motorsports,1648,30,22
+5585,4269,Riley Herbst,23XI Racing,3250,32,23
+5585,4469,Shane Van Gisbergen,Trackhouse Racing,3255,31,24
+5585,4104,Cole Custer,Haas Factory Team,2767,27,25
+5585,4065,Tyler Reddick,23XI Racing,3131,24,26
+5585,4224,Noah Gragson,Front Row Motorsports,3247,18,27
+5585,4326,Carson Hocevar,Spire Motorsports,3000,6,28
+5585,4272,Zane Smith,Front Row Motorsports,2485,22,29
+5585,4125,Cody Ware,Rick Ware Racing,1430,33,30
+5585,4092,John Hunter Nemechek,Legacy Motor Club,3130,28,31
+5585,3669,JJ Yeley,NY Racing Team,2987,35,32
+5585,4184,William Byron,Hendrick Motorsports,1581,2,33
+5585,4180,Austin Cindric,Team Penske,1547,4,34
+5585,4013,Ty Dillon,Kaulig Racing,3249,34,35
+5585,2215,Casey Mears,Garage 66,2256,36,36
+5585,4025,Bubba Wallace,23XI Racing,3078,23,37
+5585,3774,AJ Allmendinger,Kaulig Racing,3049,38,38

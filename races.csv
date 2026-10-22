@@ -1,0 +1,42 @@
+race_id,race_date,track_id,track_name,track_type
+5543,2025-02-02T20:00:00,159,Bowman Gray Stadium,short track
+5544,2025-02-13T19:00:00,105,Daytona International Speedway,superspeedway
+5545,2025-02-13T20:45:00,105,Daytona International Speedway,superspeedway
+5546,2025-02-16T14:30:00,105,Daytona International Speedway,superspeedway
+5547,2025-02-23T15:00:00,111,Atlanta Motor Speedway,intermediate
+5551,2025-03-02T15:30:00,214,Circuit of The Americas,road course
+5549,2025-03-09T15:30:00,84,Phoenix Raceway,short track
+5548,2025-03-16T15:30:00,42,Las Vegas Motor Speedway,intermediate
+5583,2025-03-23T15:00:00,40,Homestead-Miami Speedway,intermediate
+5553,2025-03-30T15:00:00,22,Martinsville Speedway,short track
+5558,2025-04-06T15:00:00,4,Darlington Raceway,intermediate
+5550,2025-04-13T15:00:00,14,Bristol Motor Speedway,short track
+5555,2025-04-27T15:00:00,82,Talladega Superspeedway,superspeedway
+5554,2025-05-04T14:30:00,43,Texas Motor Speedway,intermediate
+5557,2025-05-11T15:00:00,41,Kansas Speedway,intermediate
+5561,2025-05-18T17:30:00,177,North Wilkesboro Speedway,short track
+5562,2025-05-18T20:00:00,177,North Wilkesboro Speedway,short track
+5563,2025-05-25T18:00:00,162,Charlotte Motor Speedway,intermediate
+5568,2025-06-01T19:00:00,52,Nashville Superspeedway,intermediate
+5573,2025-06-08T14:00:00,133,Michigan International Speedway,superspeedway
+5552,2025-06-15T15:00:00,75,Autódromo Hermanos Rodríguez,road course
+5570,2025-06-22T14:00:00,198,Pocono Raceway,superspeedway
+5576,2025-06-28T19:00:00,111,Atlanta Motor Speedway,intermediate
+5569,2025-07-06T14:00:00,218,Chicago Street Race,road course
+5565,2025-07-13T15:30:00,99,Sonoma Raceway,road course
+5556,2025-07-20T14:00:00,103,Dover Motor Speedway,intermediate
+5571,2025-07-27T14:00:00,123,Indianapolis Motor Speedway,superspeedway
+5566,2025-08-03T15:30:00,206,Iowa Speedway,short track
+5577,2025-08-10T14:00:00,157,Watkins Glen International,road course
+5572,2025-08-16T19:30:00,26,Richmond Raceway,short track
+5574,2025-08-23T19:30:00,105,Daytona International Speedway,superspeedway
+5575,2025-08-31T18:00:00,4,Darlington Raceway,intermediate
+5564,2025-09-07T15:00:00,45,World Wide Technology Raceway,intermediate
+5578,2025-09-13T19:30:00,14,Bristol Motor Speedway,short track
+5567,2025-09-21T14:00:00,138,New Hampshire Motor Speedway,short track
+5579,2025-09-28T15:00:00,41,Kansas Speedway,intermediate
+5581,2025-10-05T15:00:00,210,Charlotte Motor Speedway Road Course,road course
+5582,2025-10-12T17:30:00,42,Las Vegas Motor Speedway,intermediate
+5580,2025-11-17T14:00:00,82,Talladega Superspeedway,superspeedway
+5584,2025-10-26T14:00:00,22,Martinsville Speedway,short track
+5585,2025-11-02T15:00:00,84,Phoenix Raceway,short track
