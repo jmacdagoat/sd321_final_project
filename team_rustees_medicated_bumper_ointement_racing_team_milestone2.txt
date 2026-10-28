@@ -1,0 +1,185 @@
+Milestone 2 Tables
+
+Track_Info
+• track_Type_ID (PK)
+• track_Type
+
+Track
+• track_ID (PK)
+• track_Name
+• track_Type_ID (FK)
+
+Flag_Info
+• flag_State (PK)
+• flag_Color
+
+Team_Info
+• team_ID (PK)
+• team_Name
+
+Driver_Info
+• driver_ID (PK)
+• first_Name
+• last_Name
+• team_ID (FK)
+
+Race
+• race_ID (PK)
+• race_Date
+• race_Name
+• track_ID (FK)
+• track_Type_ID (FK)
+
+Events
+• event_ID (PK)
+• lap_Number
+• flag_State (FK)
+• notes
+
+Race_Events
+• race_ID (PK, FK)
+• event_ID (PK, FK)
+
+Lap_Info
+• driver_ID (PK, FK)
+• race_ID (PK, FK)
+• lap_Number (PK)
+• position_Number
+• lap_Speed
+
+Pitstop_Info
+• race_ID (PK, FK)
+• driver_ID (PK, FK)
+• lap_Number (PK)
+• duration
+• position_Lost_Or_Gained
+
+Results
+• race_ID (PK, FK)
+• driver_ID (PK, FK)
+• start_Position
+• finish_Position
+
+Relational Model 
+
+Track_Info
+CREATE TABLE Track_Info (
+track_Type_ID INT PRIMARY KEY,
+track_Type VARCHAR(50) NOT NULL);
+Functional Dependencies:
+• track_Type_ID → track_Type
+Yes, Boyce Codd Normal Form 
+
+Track
+CREATE TABLE Track (
+track_ID INT PRIMARY KEY,
+track_Name VARCHAR(100) NOT NULL,
+track_Type_ID INT,
+FOREIGN KEY (track_Type_ID) REFERENCES Track_Info(track_Type_ID));
+Functional Dependencies:
+• track_ID → track_Name, track_Type_ID
+Yes, Boyce Codd Normal Form 
+
+Flag_Info
+CREATE TABLE Flag_Info (
+flag_State INT PRIMARY KEY,
+flag_Color VARCHAR(30) NOT NULL);
+Functional Dependencies:
+• flag_State → flag_Color
+Yes, Boyce Codd Normal Form 
+
+Team_Info
+CREATE TABLE Team_Info (
+team_ID INT PRIMARY KEY,
+team_Name VARCHAR(100) NOT NULL);
+Functional Dependencies:
+• team_ID → team_Name
+Yes, Boyce Codd Normal Form 
+
+Driver_Info
+CREATE TABLE Driver_Info (
+driver_ID INT PRIMARY KEY,
+first_Name VARCHAR(50) NOT NULL,
+last_Name VARCHAR(50) NOT NULL,
+team_ID INT,
+FOREIGN KEY (team_ID) REFERENCES Team_Info(team_ID));
+Functional Dependencies:
+• driver_ID → first_Name, last_Name, team_ID
+Yes, Boyce Codd Normal Form 
+
+Race
+CREATE TABLE Race (
+race_ID INT PRIMARY KEY
+race_Date DATE NOT NULL
+race_Name VARCHAR(100)
+track_ID INT,
+track_Type_ID INT
+FOREIGN KEY (track_ID) REFERENCES Track(track_ID),
+FOREIGN KEY (track_Type_ID) REFERENCES Track_Info(track_Type_ID));
+Functional Dependencies:
+• race_ID → race_Date, race_Name, track_ID, track_Type_ID
+• track_ID → track_Type_ID (transitive dependency via Track table)
+Yes, Boyce Codd Normal Form 
+
+Events
+CREATE TABLE Events (
+event_ID INT PRIMARY KEY,
+lap_Number INT, 
+flag_State INT,
+notes TEXT,
+FOREIGN KEY (flag_State) REFERENCES Flag_Info(flag_State));
+Functional Dependencies:
+• event_ID → lap_Number, flag_State, notes
+Yes, Boyce Codd Normal Form 
+
+Race_Events
+CREATE TABLE Race_Events (
+race_ID INT,
+event_ID INT,
+PRIMARY KEY (race_ID, event_ID), 
+FOREIGN KEY (race_ID) REFERENCES Race(race_ID),
+FOREIGN KEY (event_ID) REFERENCES Events(event_ID));
+Functional Dependencies:
+• (race_ID, event_ID) → composite key
+Yes, Boyce Codd Normal Form 
+
+Lap_Info
+CREATE TABLE Lap_Info (
+driver_ID INT,
+race_ID INT,
+lap_Number INT,
+position_Number INT,
+lap_Speed DECIMAL(6,3),
+PRIMARY KEY (driver_ID, race_ID, lap_Number),
+FOREIGN KEY (driver_ID) REFERENCES Driver_Info(driver_ID),
+FOREIGN KEY (race_ID) REFERENCES Race(race_ID));
+Functional Dependencies:
+• (driver_ID, race_ID, lap_Number) → position_Number, lap_Speed
+Yes, Boyce Codd Normal Form x
+
+Pitstop_Info
+CREATE TABLE Pitstop_Info (
+race_ID INT,
+driver_ID INT,
+lap_Number INT,
+duration DECIMAL(5,2),
+position_Lost_Or_Gained INT,
+PRIMARY KEY (race_ID, driver_ID, lap_Number),
+FOREIGN KEY (race_ID) REFERENCES Race(race_ID),
+FOREIGN KEY (driver_ID) REFERENCES Driver_Info(driver_ID) );
+Functional Dependencies:
+• (race_ID, driver_ID, lap_Number) → duration, position_Lost_Or_Gained
+Yes, Boyce Codd Normal Form 
+
+Results
+CREATE TABLE Results (
+race_ID INT,
+driver_ID INT,
+start_Position INT,
+finish_Position INT,
+PRIMARY KEY (race_ID, driver_ID),
+FOREIGN KEY (race_ID) REFERENCES Race(race_ID),
+FOREIGN KEY (driver_ID) REFERENCES Driver_Info(driver_ID) );
+Functional Dependencies:
+• (race_ID, driver_ID) → start_Position, finish_Position
+Yes, Boyce Codd Normal Form
